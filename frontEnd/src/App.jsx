@@ -1,122 +1,170 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
+import { useState, useRef, useEffect } from 'react'
 import './App.css'
 
-function App() {
-  const [count, setCount] = useState(0)
+const API_BASE = import.meta.env.VITE_API_BASE || '/api'
 
-  return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
-
-      <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
+const STATUS = {
+  IDLE: 'idle',
+  LOADING: 'loading',
+  FOUND: 'found',
+  NOT_FOUND: 'not_found',
+  ERROR: 'error',
+  DOWNLOADING: 'downloading',
+  SUCCESS: 'success',
 }
 
-export default App
+export default function App() {
+  const [studentId, setStudentId]     = useState('')
+  const [status, setStatus]           = useState(STATUS.IDLE)
+  const [touched, setTouched]         = useState(false)
+  const [studentData, setStudentData] = useState(null)
+  const inputRef                      = useRef(null)
+  const debounceRef                   = useRef(null)
+
+  const isEmpty = studentId.trim() === ''
+
+  // ── Debounced lookup ──────────────────────────────────────────────────────
+  useEffect(() => {
+    if (isEmpty) {
+      setStatus(STATUS.IDLE)
+      setStudentData(null)
+      return
+    }
+
+    setStatus(STATUS.LOADING)
+    setStudentData(null)
+
+    clearTimeout(debounceRef.current)
+    debounceRef.current = setTimeout(async () => {
+      try {
+        const res = await fetch(
+          `${API_BASE}/students/${encodeURIComponent(studentId.trim())}`
+        )
+        if (res.ok) {
+          const json = await res.json()
+          setStudentData(json.data)
+          setStatus(STATUS.FOUND)
+        } else if (res.status === 404) {
+          setStudentData(null)
+          setStatus(STATUS.NOT_FOUND)
+        } else {
+          setStudentData(null)
+          setStatus(STATUS.ERROR)
+        }
+      } catch {
+        setStudentData(null)
+        setStatus(STATUS.ERROR)
+      }
+    }, 600)
+
+    return () => clearTimeout(debounceRef.current)
+  }, [studentId, isEmpty])
+
+  // ── Form submit ───────────────────────────────────────────────────────────
+  const handleSubmit = async (e) => {
+    e.preventDefault()
+    setTouched(true)
+    if (isEmpty || status !== STATUS.FOUND) return
+
+    setStatus(STATUS.DOWNLOADING)
+
+    try {
+      const res = await fetch(
+        `${API_BASE}/students/${encodeURIComponent(studentId.trim())}/download`
+      )
+
+      if (!res.ok) {
+        const json = await res.json().catch(() => ({}))
+        alert(json.message || 'Failed to generate PDF.')
+        setStatus(STATUS.FOUND)
+        return
+      }
+
+      const blob = await res.blob()
+      const url  = URL.createObjectURL(blob)
+      const link = document.createElement('a')
+      link.href     = url
+      link.download = `RGUKT_Registration_${studentId.trim()}.pdf`
+      document.body.appendChild(link)
+      link.click()
+      document.body.removeChild(link)
+      URL.revokeObjectURL(url)
+
+      setStatus(STATUS.SUCCESS)
+      setTimeout(() => setStatus(STATUS.FOUND), 3000)
+    } catch {
+      alert('Could not reach the server. Is the backend running?')
+      setStatus(STATUS.FOUND)
+    }
+  }
+
+  // ── Status message ────────────────────────────────────────────────────────
+  const getStatusText = () => {
+    if (isEmpty && !touched)                 return { text: 'Enter an ID to begin lookup.',     cls: '' }
+    if (status === STATUS.LOADING)           return { text: 'Searching student database…',      cls: '' }
+    if (status === STATUS.FOUND && studentData)
+      return { text: `Matched: ${studentData.name} (${studentData.section})`, cls: 'success' }
+    if (status === STATUS.NOT_FOUND)         return { text: 'ID not found in the database.',    cls: 'error' }
+    if (status === STATUS.ERROR)             return { text: 'Could not reach the server.',      cls: 'error' }
+    if (status === STATUS.DOWNLOADING)       return { text: 'Generating PDF…',                  cls: '' }
+    if (status === STATUS.SUCCESS)           return { text: 'PDF downloaded successfully!',     cls: 'success' }
+    return { text: 'Ready for lookup.', cls: '' }
+  }
+
+  const { text: statusText, cls: statusCls } = getStatusText()
+
+  const btnDisabled =
+    status === STATUS.LOADING    ||
+    status === STATUS.DOWNLOADING ||
+    status === STATUS.NOT_FOUND  ||
+    status === STATUS.ERROR      ||
+    isEmpty
+
+  return (
+    <div className="page">
+      <div className="form-card">
+        <h3 className="card-title">Student Registration Panel</h3>
+
+        <form id="student-form" onSubmit={handleSubmit} noValidate>
+          <div className="form-group">
+            <label htmlFor="studentId">Enter Student ID No.:</label>
+            <input
+              ref={inputRef}
+              id="studentId"
+              type="text"
+              placeholder="e.g., O251349"
+              value={studentId}
+              onChange={(e) => {
+                setStudentId(e.target.value.toUpperCase())
+                setTouched(true)
+              }}
+              autoComplete="off"
+              spellCheck="false"
+              aria-describedby="status-msg"
+            />
+            <div
+              id="status-msg"
+              className={`status-msg ${statusCls}`}
+              aria-live="polite"
+            >
+              {statusText}
+            </div>
+          </div>
+
+          <button
+            id="downloadBtn"
+            type="submit"
+            className="download-btn"
+            disabled={btnDisabled}
+          >
+            {status === STATUS.DOWNLOADING
+              ? 'Generating PDF…'
+              : status === STATUS.SUCCESS
+              ? '✓ PDF Downloaded!'
+              : 'Download Form PDF'}
+          </button>
+        </form>
+      </div>
+    </div>
+  )
+}

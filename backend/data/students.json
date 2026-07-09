@@ -1,0 +1,7457 @@
+[
+  {
+    "s_no": 1,
+    "name": "TANAGALA MAHA LAKSHMI",
+    "gender": "F",
+    "admission_number": "O251349",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 2,
+    "name": "SHESHAM SHALINI",
+    "gender": "F",
+    "admission_number": "O251357",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 3,
+    "name": "DIDDEKUNTA BHARANI",
+    "gender": "F",
+    "admission_number": "O251360",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 4,
+    "name": "THUNUGUNTLA DIVYA SAI LAXMI",
+    "gender": "F",
+    "admission_number": "O251361",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 5,
+    "name": "KOTTANA SHANMUKHA AMULYA",
+    "gender": "F",
+    "admission_number": "O251362",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 6,
+    "name": "MAJJI PUJITHA",
+    "gender": "F",
+    "admission_number": "O251363",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 7,
+    "name": "POLIREDDI KUSUMA",
+    "gender": "F",
+    "admission_number": "O251364",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 8,
+    "name": "ATCHI TRIVENI",
+    "gender": "F",
+    "admission_number": "O251365",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 9,
+    "name": "PEDADA MADHURI",
+    "gender": "F",
+    "admission_number": "O251367",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 10,
+    "name": "KOLAGANI HEMA",
+    "gender": "F",
+    "admission_number": "O251368",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 11,
+    "name": "KAMASANI NANDINI",
+    "gender": "F",
+    "admission_number": "O251369",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 12,
+    "name": "PISINI LALITHA",
+    "gender": "F",
+    "admission_number": "O251370",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 13,
+    "name": "PUJARI NIHARIKA",
+    "gender": "F",
+    "admission_number": "O251372",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 14,
+    "name": "GUBALA ARCHANA",
+    "gender": "F",
+    "admission_number": "O251373",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 15,
+    "name": "NAGARI MANISHA",
+    "gender": "F",
+    "admission_number": "O251374",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 16,
+    "name": "KAKARLA MAHESWARI",
+    "gender": "F",
+    "admission_number": "O251375",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 17,
+    "name": "SAKIVELA YASASWINI",
+    "gender": "F",
+    "admission_number": "O251376",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 18,
+    "name": "CHAKALI HARIKA",
+    "gender": "F",
+    "admission_number": "O251378",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 19,
+    "name": "DASARI GEETHANJALI",
+    "gender": "F",
+    "admission_number": "O251379",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 20,
+    "name": "YELISETTY HARSHITHA",
+    "gender": "F",
+    "admission_number": "O251381",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 21,
+    "name": "NERELLA HEMASRI",
+    "gender": "F",
+    "admission_number": "O251382",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 22,
+    "name": "PATHALAM LAVANYA",
+    "gender": "F",
+    "admission_number": "O251385",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 23,
+    "name": "BOJANAM JAYA SREE",
+    "gender": "F",
+    "admission_number": "O251386",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 24,
+    "name": "PEDDI LALITHA PRIYA",
+    "gender": "F",
+    "admission_number": "O251389",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 25,
+    "name": "S SPANDANA",
+    "gender": "F",
+    "admission_number": "O251392",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 26,
+    "name": "JAKKA VENKATA SAI PREETHI",
+    "gender": "F",
+    "admission_number": "O251393",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 27,
+    "name": "PRATHIPATI SRIHARINI",
+    "gender": "F",
+    "admission_number": "O251394",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 28,
+    "name": "GANISETTI KARUNYA",
+    "gender": "F",
+    "admission_number": "O251395",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 29,
+    "name": "ADDAGALLA SWAPNA",
+    "gender": "F",
+    "admission_number": "O251396",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 30,
+    "name": "PAPPU HASINI PRIYA",
+    "gender": "F",
+    "admission_number": "O251399",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 31,
+    "name": "NIMMAKAYALA HARITHA",
+    "gender": "F",
+    "admission_number": "O251400",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 32,
+    "name": "KURUVA DEEPIKA",
+    "gender": "F",
+    "admission_number": "O251401",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 33,
+    "name": "DHARMAPU BUJJAMMA",
+    "gender": "F",
+    "admission_number": "O251403",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 34,
+    "name": "BURUGU JASMITHA",
+    "gender": "F",
+    "admission_number": "O251404",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 35,
+    "name": "KORABANDI MOUNIKA",
+    "gender": "F",
+    "admission_number": "O251405",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 36,
+    "name": "SEELAM BHAVYA SRI",
+    "gender": "F",
+    "admission_number": "O251406",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 37,
+    "name": "MIDDEPOGU VARSHITHA",
+    "gender": "F",
+    "admission_number": "O251407",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 38,
+    "name": "PIDUGU RACHANA",
+    "gender": "F",
+    "admission_number": "O251408",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 39,
+    "name": "T.gnaneshwari",
+    "gender": "F",
+    "admission_number": "O251411",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 40,
+    "name": "A.Pravachana",
+    "gender": "F",
+    "admission_number": "O251412",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 41,
+    "name": "J DAKSHITHA",
+    "gender": "F",
+    "admission_number": "O251415",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 42,
+    "name": "GUVVALA VENKATALOKESH",
+    "gender": "M",
+    "admission_number": "O251317",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 43,
+    "name": "DEVANAPALLI SIVA MANI",
+    "gender": "M",
+    "admission_number": "O251318",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 44,
+    "name": "BOYA MALLIKARJUNA",
+    "gender": "M",
+    "admission_number": "O251319",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 45,
+    "name": "GOTTIMUKKALA HARSHA VARDHAN BABU",
+    "gender": "M",
+    "admission_number": "O251323",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 46,
+    "name": "GARA RAMCHARAN SAI",
+    "gender": "M",
+    "admission_number": "O251325",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 47,
+    "name": "DUGGULURU BHAGEERATH",
+    "gender": "M",
+    "admission_number": "O251328",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 48,
+    "name": "SAMATHOTI ROHITH",
+    "gender": "M",
+    "admission_number": "O251332",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 49,
+    "name": "NALLABOTHULA VIGNESH",
+    "gender": "M",
+    "admission_number": "O251345",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 50,
+    "name": "SIDDIGALLA HARSHAVARDHAN",
+    "gender": "M",
+    "admission_number": "O251346",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 51,
+    "name": "AKKURTHI SURENDRA",
+    "gender": "M",
+    "admission_number": "O251350",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 52,
+    "name": "RAGHOLU ABHISHEK MATTHEWS",
+    "gender": "M",
+    "admission_number": "O251351",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 53,
+    "name": "PATHIPATI REDDY PRASAD",
+    "gender": "M",
+    "admission_number": "O251354",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 54,
+    "name": "RONDI VIGNESH",
+    "gender": "M",
+    "admission_number": "O251366",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 55,
+    "name": "MUDIREDDY SRI SHANTH REDDY",
+    "gender": "M",
+    "admission_number": "O251377",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 56,
+    "name": "SOHAIL TANVEER KHAN PATAN",
+    "gender": "M",
+    "admission_number": "O251380",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 57,
+    "name": "BODAPATI YASWANTH CHOWDARY",
+    "gender": "M",
+    "admission_number": "O251384",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 58,
+    "name": "GOLLA KISHOR",
+    "gender": "M",
+    "admission_number": "O251387",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 59,
+    "name": "BEJJIPURAM RAGHAVA",
+    "gender": "M",
+    "admission_number": "O251388",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 60,
+    "name": "M KARTHIK REDDY",
+    "gender": "M",
+    "admission_number": "O251390",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 61,
+    "name": "SAKE MOHAN VIKAS",
+    "gender": "M",
+    "admission_number": "S251106",
+    "section": "GAMMA10"
+  },
+  {
+    "s_no": 1,
+    "name": "M.Usha sree",
+    "gender": "F",
+    "admission_number": "O251416",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 2,
+    "name": "A.Bhuvaneswari",
+    "gender": "F",
+    "admission_number": "O251422",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 3,
+    "name": "B Lakshmi Pujitha",
+    "gender": "F",
+    "admission_number": "O251424",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 4,
+    "name": "K.Sandhya Rani",
+    "gender": "F",
+    "admission_number": "O251425",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 5,
+    "name": "PATTAN KOUSAR",
+    "gender": "F",
+    "admission_number": "R250209",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 6,
+    "name": "BHATTA SARANYA",
+    "gender": "F",
+    "admission_number": "R250255",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 7,
+    "name": "UPPITERLA DIVYASRI",
+    "gender": "F",
+    "admission_number": "R250346",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 8,
+    "name": "NAIDU KAVYA",
+    "gender": "F",
+    "admission_number": "R250593",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 9,
+    "name": "VEERAMSETTY SRI HARITHA",
+    "gender": "F",
+    "admission_number": "R250661",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 10,
+    "name": "KATIKI SREE NAVYA",
+    "gender": "F",
+    "admission_number": "R250727",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 11,
+    "name": "KANAVAREDDI V V PADMA ANANTHA LAKSHMI",
+    "gender": "F",
+    "admission_number": "R250908",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 12,
+    "name": "DEVANABOINA JAYA SINDHUNA",
+    "gender": "F",
+    "admission_number": "S250275",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 13,
+    "name": "SAIKAM BHAVYA",
+    "gender": "F",
+    "admission_number": "S250313",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 14,
+    "name": "THUPAKULA LAKSHMI LAVANYA",
+    "gender": "F",
+    "admission_number": "S250317",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 15,
+    "name": "KOTHAKOTA  LASYA PRIYA",
+    "gender": "F",
+    "admission_number": "S250386",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 16,
+    "name": "PATHAN FARJANA",
+    "gender": "F",
+    "admission_number": "S250393",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 17,
+    "name": "GARIKAPATI DURGA BHAVANI",
+    "gender": "F",
+    "admission_number": "S250397",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 18,
+    "name": "K D ISHWARYA",
+    "gender": "F",
+    "admission_number": "S250398",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 19,
+    "name": "LALBEEGARI FARHANA",
+    "gender": "F",
+    "admission_number": "S250427",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 20,
+    "name": "SHAIK RAGIMANU RESHMA",
+    "gender": "F",
+    "admission_number": "S250434",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 21,
+    "name": "ANNAVARAPU HARSHIKA",
+    "gender": "F",
+    "admission_number": "S250436",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 22,
+    "name": "MUDE HIMA BINDU",
+    "gender": "F",
+    "admission_number": "S250487",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 23,
+    "name": "SUGALI HARATHI BAI",
+    "gender": "F",
+    "admission_number": "S250489",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 24,
+    "name": "POOJARI LAKSHMI PRASANNA",
+    "gender": "F",
+    "admission_number": "S250498",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 25,
+    "name": "POLISETTY SRILAKSHMI",
+    "gender": "F",
+    "admission_number": "S250856",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 26,
+    "name": "KUDUMULA SHANMUKHA PRIYA",
+    "gender": "F",
+    "admission_number": "S250886",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 27,
+    "name": "GUTTA KAVYA SRI",
+    "gender": "F",
+    "admission_number": "S250957",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 28,
+    "name": "UTLA SRILAKSHMI",
+    "gender": "F",
+    "admission_number": "S250960",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 29,
+    "name": "SHAIK HAFEEJA",
+    "gender": "F",
+    "admission_number": "S250980",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 30,
+    "name": "SHAIK RISHMA",
+    "gender": "F",
+    "admission_number": "S250982",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 31,
+    "name": "NULA PUJITHA",
+    "gender": "F",
+    "admission_number": "S250988",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 32,
+    "name": "SHAIK ASHA",
+    "gender": "F",
+    "admission_number": "S250996",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 33,
+    "name": "DEGALAPADU RASHMI",
+    "gender": "F",
+    "admission_number": "S250997",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 34,
+    "name": "KAVALA RISHITHA",
+    "gender": "F",
+    "admission_number": "S250999",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 35,
+    "name": "YENDLURI RECHAL",
+    "gender": "F",
+    "admission_number": "S251017",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 36,
+    "name": "PALLEPOGU RIBKKA",
+    "gender": "F",
+    "admission_number": "S251018",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 37,
+    "name": "NAPERLA JESIKA",
+    "gender": "F",
+    "admission_number": "S251029",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 38,
+    "name": "MUDOKULAM SREELEKHA",
+    "gender": "F",
+    "admission_number": "S251044",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 39,
+    "name": "KAVETI AKSHAYA",
+    "gender": "F",
+    "admission_number": "S251053",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 40,
+    "name": "SHAIK JOWRA TANVEER",
+    "gender": "F",
+    "admission_number": "S251061",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 41,
+    "name": "SHAIK AAYESHA BHANU",
+    "gender": "F",
+    "admission_number": "S251066",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 42,
+    "name": "SHAIK AZAD",
+    "gender": "M",
+    "admission_number": "O251397",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 43,
+    "name": "G Umapathi ",
+    "gender": "M",
+    "admission_number": "O251413",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 44,
+    "name": "M P SURESH",
+    "gender": "M",
+    "admission_number": "O251414",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 45,
+    "name": "R Aravind naik",
+    "gender": "M",
+    "admission_number": "o251418",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 46,
+    "name": "M Chaitanya Goud",
+    "gender": "M",
+    "admission_number": "O251421",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 47,
+    "name": "CH Dilleswara rao",
+    "gender": "M",
+    "admission_number": "O251423",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 48,
+    "name": "PATTI PURNA MANOHAR",
+    "gender": "M",
+    "admission_number": "R250658",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 49,
+    "name": "KOMMA MANIKANTA",
+    "gender": "M",
+    "admission_number": "R250888",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 50,
+    "name": "SUNKARI DURGA PRASAD",
+    "gender": "M",
+    "admission_number": "S250281",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 51,
+    "name": "CHAGANTI PAVAN REDDY",
+    "gender": "M",
+    "admission_number": "S250346",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 52,
+    "name": "KAIDUPALLI YASWANTH",
+    "gender": "M",
+    "admission_number": "S250403",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 53,
+    "name": "SAKE JAGAN",
+    "gender": "M",
+    "admission_number": "S250494",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 54,
+    "name": "DODDI NOVA",
+    "gender": "M",
+    "admission_number": "S250503",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 55,
+    "name": "PAASHAM SRIRAMA CHANDRA VAMSI",
+    "gender": "M",
+    "admission_number": "S250509",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 56,
+    "name": "PENTAPATI GANESH VENKATA SAI",
+    "gender": "M",
+    "admission_number": "S250869",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 57,
+    "name": "AKULA BALA SIVADHATTA TULASI MANOHAR",
+    "gender": "M",
+    "admission_number": "S250937",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 58,
+    "name": "GUTHURU NANDISH",
+    "gender": "M",
+    "admission_number": "S250969",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 59,
+    "name": "M AADHARSHA KUMAR NAICK",
+    "gender": "M",
+    "admission_number": "S251047",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 60,
+    "name": "DUNGAVATH JASHWANTH NAIK",
+    "gender": "M",
+    "admission_number": "S251049",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 61,
+    "name": "VADLA RANGA BABU",
+    "gender": "M",
+    "admission_number": "S251097",
+    "section": "GAMMA11"
+  },
+  {
+    "s_no": 1,
+    "name": "MAJJI RUSHITHA",
+    "gender": "F",
+    "admission_number": "O251106",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 2,
+    "name": "BHOOMIREDDY BHAVANI",
+    "gender": "F",
+    "admission_number": "O251107",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 3,
+    "name": "YENUGANTI YASASWINI",
+    "gender": "F",
+    "admission_number": "O251108",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 4,
+    "name": "MUPPANABOYINA SIVA VENKATALAKSHMI SATYA",
+    "gender": "F",
+    "admission_number": "O251110",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 5,
+    "name": "D GAGANA SREE",
+    "gender": "F",
+    "admission_number": "O251111",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 6,
+    "name": "KODURU BHARATHI",
+    "gender": "F",
+    "admission_number": "O251112",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 7,
+    "name": "MANKU SARVANI",
+    "gender": "F",
+    "admission_number": "O251114",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 8,
+    "name": "NELLURI NAVYA",
+    "gender": "F",
+    "admission_number": "O251115",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 9,
+    "name": "JONNADA LASYA",
+    "gender": "F",
+    "admission_number": "O251117",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 10,
+    "name": "VALLURI ALEKHYA",
+    "gender": "F",
+    "admission_number": "O251119",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 11,
+    "name": "CHINTALA HARSHITHA",
+    "gender": "F",
+    "admission_number": "O251120",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 12,
+    "name": "GUNTURU NITHYA SRI",
+    "gender": "F",
+    "admission_number": "O251121",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 13,
+    "name": "BOYA MOUNASREE",
+    "gender": "F",
+    "admission_number": "O251126",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 14,
+    "name": "ZAGABATHUNI POOJITHA",
+    "gender": "F",
+    "admission_number": "O251130",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 15,
+    "name": "PETA SRAVANI",
+    "gender": "F",
+    "admission_number": "O251133",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 16,
+    "name": "VOOTA BHAVANA",
+    "gender": "F",
+    "admission_number": "O251134",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 17,
+    "name": "VANKARAJU VENKATA SIREESHA",
+    "gender": "F",
+    "admission_number": "O251136",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 18,
+    "name": "KOVVURU MAHA SRI",
+    "gender": "F",
+    "admission_number": "O251137",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 19,
+    "name": "BABBADI SRAVANI",
+    "gender": "F",
+    "admission_number": "O251138",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 20,
+    "name": "DAKI RESHMA",
+    "gender": "F",
+    "admission_number": "O251142",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 21,
+    "name": "BHUVANESWARI DAKKUVA",
+    "gender": "F",
+    "admission_number": "O251144",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 22,
+    "name": "GEDELA KOMALI",
+    "gender": "F",
+    "admission_number": "O251145",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 23,
+    "name": "KOTANA MANASA",
+    "gender": "F",
+    "admission_number": "O251146",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 24,
+    "name": "BYAKULA DEEPIKA",
+    "gender": "F",
+    "admission_number": "O251147",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 25,
+    "name": "NADUPURU YAMUNA",
+    "gender": "F",
+    "admission_number": "O251148",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 26,
+    "name": "PENUGONDA LEELA KUMARI",
+    "gender": "F",
+    "admission_number": "O251149",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 27,
+    "name": "VANTAPATI NAGA KAVYA",
+    "gender": "F",
+    "admission_number": "O251151",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 28,
+    "name": "KONDAPALLI VANI PRIYA",
+    "gender": "F",
+    "admission_number": "O251154",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 29,
+    "name": "VANDARANI BHARATHI",
+    "gender": "F",
+    "admission_number": "O251160",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 30,
+    "name": "PALLAPATI VENKATA THRIVENI",
+    "gender": "F",
+    "admission_number": "O251161",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 31,
+    "name": "KAVERIPAKAM RESHMA",
+    "gender": "F",
+    "admission_number": "O251162",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 32,
+    "name": "GONGADA GNANESWARI",
+    "gender": "F",
+    "admission_number": "O251164",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 33,
+    "name": "LATCHIREDDY RAJINI",
+    "gender": "F",
+    "admission_number": "O251166",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 34,
+    "name": "GOPALDASU MEGHANA",
+    "gender": "F",
+    "admission_number": "O251167",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 35,
+    "name": "YALAKALA NANDINI",
+    "gender": "F",
+    "admission_number": "O251168",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 36,
+    "name": "KASIREDDY RAMYASREE",
+    "gender": "F",
+    "admission_number": "O251169",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 37,
+    "name": "GEDI RAMYA",
+    "gender": "F",
+    "admission_number": "O251172",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 38,
+    "name": "PASUPULETI BHAVANI",
+    "gender": "F",
+    "admission_number": "O251173",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 39,
+    "name": "MUSINANA JYOTHSNA",
+    "gender": "F",
+    "admission_number": "O251175",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 40,
+    "name": "BEVARA SYAMALA",
+    "gender": "F",
+    "admission_number": "O251176",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 41,
+    "name": "PINISETTI JAHNAVI",
+    "gender": "F",
+    "admission_number": "O251177",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 42,
+    "name": "DEVARAKONDA SRIHARSHA KUMAR",
+    "gender": "M",
+    "admission_number": "O251116",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 43,
+    "name": "NALLABOTHULA ABHI",
+    "gender": "M",
+    "admission_number": "O251122",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 44,
+    "name": "KOTLA VENKATA SIVA REDDY",
+    "gender": "M",
+    "admission_number": "O251125",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 45,
+    "name": "GUJJULA JAGADEESWARA REDDY",
+    "gender": "M",
+    "admission_number": "O251128",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 46,
+    "name": "ABOTULA NIRANJAN",
+    "gender": "M",
+    "admission_number": "O251129",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 47,
+    "name": "NARAMALA SHANMUKA SIVA PAVAN",
+    "gender": "M",
+    "admission_number": "O251132",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 48,
+    "name": "PALUVA RAMAKRISHNA",
+    "gender": "M",
+    "admission_number": "O251139",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 49,
+    "name": "MAHANTHI PREM CHAND",
+    "gender": "M",
+    "admission_number": "O251141",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 50,
+    "name": "RODDA MANOJ KUMAR REDDY",
+    "gender": "M",
+    "admission_number": "O251143",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 51,
+    "name": "YALLAPU JEEVAN KUMAR",
+    "gender": "M",
+    "admission_number": "O251152",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 52,
+    "name": "VUTUKURI LILA ESWAR",
+    "gender": "M",
+    "admission_number": "O251153",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 53,
+    "name": "GADDE MOHITHESH",
+    "gender": "M",
+    "admission_number": "O251155",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 54,
+    "name": "VOONNA CHARAN SAI",
+    "gender": "M",
+    "admission_number": "O251156",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 55,
+    "name": "SANEPALLE VEERA DINESWAR REDDY",
+    "gender": "M",
+    "admission_number": "O251157",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 56,
+    "name": "MADABATTULA MOHITH",
+    "gender": "M",
+    "admission_number": "O251159",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 57,
+    "name": "ALLAMPALLI JASWANTH",
+    "gender": "M",
+    "admission_number": "O251163",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 58,
+    "name": "PONNATI KARTHIK",
+    "gender": "M",
+    "admission_number": "O251165",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 59,
+    "name": "POTNURU THANUJ KUMAR",
+    "gender": "M",
+    "admission_number": "O251170",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 60,
+    "name": "NICHENAMETLA SAI ESWAR",
+    "gender": "M",
+    "admission_number": "O251171",
+    "section": "GAMMA7"
+  },
+  {
+    "s_no": 1,
+    "name": "NALLAGASULA JOSHITHA",
+    "gender": "F",
+    "admission_number": "O251178",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 2,
+    "name": "YALLAPU BHAVYA SRI SUMALATHA",
+    "gender": "F",
+    "admission_number": "O251179",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 3,
+    "name": "MUDADLA JHANSI",
+    "gender": "F",
+    "admission_number": "O251180",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 4,
+    "name": "KUPPANABOINA LEELA RAMYA SRI",
+    "gender": "F",
+    "admission_number": "O251182",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 5,
+    "name": "PALLA JAYA SREE",
+    "gender": "F",
+    "admission_number": "O251186",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 6,
+    "name": "SHAIK NAZEERA",
+    "gender": "F",
+    "admission_number": "O251188",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 7,
+    "name": "DUSARLAPUDI JAHNAVI",
+    "gender": "F",
+    "admission_number": "O251189",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 8,
+    "name": "GURIJALA DEEPIKA",
+    "gender": "F",
+    "admission_number": "O251195",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 9,
+    "name": "SHAIK ASMEEN",
+    "gender": "F",
+    "admission_number": "O251199",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 10,
+    "name": "SHAIK HASEENA",
+    "gender": "F",
+    "admission_number": "O251201",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 11,
+    "name": "SHAIK SAFIYA",
+    "gender": "F",
+    "admission_number": "O251202",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 12,
+    "name": "SHAIK PYAREE YASMIN",
+    "gender": "F",
+    "admission_number": "O251203",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 13,
+    "name": "VELAMALA KALPANA",
+    "gender": "F",
+    "admission_number": "O251205",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 14,
+    "name": "SHAIK HAFSA KOWSER",
+    "gender": "F",
+    "admission_number": "O251206",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 15,
+    "name": "URUMULA CHARITHA SAI",
+    "gender": "F",
+    "admission_number": "O251207",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 16,
+    "name": "GARIKIMUKKU MOUNIKA",
+    "gender": "F",
+    "admission_number": "O251208",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 17,
+    "name": "SHAIK AFINA",
+    "gender": "F",
+    "admission_number": "O251209",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 18,
+    "name": "UMMADI HANEESHA",
+    "gender": "F",
+    "admission_number": "O251210",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 19,
+    "name": "PAIDI MANOSREE",
+    "gender": "F",
+    "admission_number": "O251211",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 20,
+    "name": "KOTTE TEJA SRI",
+    "gender": "F",
+    "admission_number": "O251213",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 21,
+    "name": "CHAKKA ASRITHA SAI TULASI",
+    "gender": "F",
+    "admission_number": "O251215",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 22,
+    "name": "DASARAJU YAMINI",
+    "gender": "F",
+    "admission_number": "O251216",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 23,
+    "name": "KURAKULA FIRDOSH",
+    "gender": "F",
+    "admission_number": "O251217",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 24,
+    "name": "KOTA ANITHA",
+    "gender": "F",
+    "admission_number": "O251218",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 25,
+    "name": "ANNEM MEGHANA",
+    "gender": "F",
+    "admission_number": "O251219",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 26,
+    "name": "GUNNAMPATI BHARATHI",
+    "gender": "F",
+    "admission_number": "O251220",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 27,
+    "name": "VADIYALA MADHURI",
+    "gender": "F",
+    "admission_number": "O251221",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 28,
+    "name": "DAMMU SUJITHA",
+    "gender": "F",
+    "admission_number": "O251222",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 29,
+    "name": "DARA HAVEELA",
+    "gender": "F",
+    "admission_number": "O251223",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 30,
+    "name": "KOMMERA INDU",
+    "gender": "F",
+    "admission_number": "O251224",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 31,
+    "name": "KOMMU VYSHNAVI",
+    "gender": "F",
+    "admission_number": "O251229",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 32,
+    "name": "GUNTURU PUJITHA",
+    "gender": "F",
+    "admission_number": "O251233",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 33,
+    "name": "NANDIPAMU RAMYA",
+    "gender": "F",
+    "admission_number": "O251234",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 34,
+    "name": "GOLAKARAM BHAVANA PRIYA",
+    "gender": "F",
+    "admission_number": "O251237",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 35,
+    "name": "VALERU ABHIGNA",
+    "gender": "F",
+    "admission_number": "O251238",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 36,
+    "name": "BANAVATHU HARSHA VARDINI",
+    "gender": "F",
+    "admission_number": "O251241",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 37,
+    "name": "KOMMU SANDHYA RANI",
+    "gender": "F",
+    "admission_number": "O251245",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 38,
+    "name": "ARIMOLA KAVYA",
+    "gender": "F",
+    "admission_number": "O251250",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 39,
+    "name": "K H KEERTHANA",
+    "gender": "F",
+    "admission_number": "O251251",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 40,
+    "name": "CHOWDAM JAITRA",
+    "gender": "F",
+    "admission_number": "O251253",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 41,
+    "name": "KANITHI HASINI",
+    "gender": "F",
+    "admission_number": "O251254",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 42,
+    "name": "SENKARASETTY SUJAN KUMAR",
+    "gender": "M",
+    "admission_number": "O251181",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 43,
+    "name": "DUDEKULA UMAR PARUK",
+    "gender": "M",
+    "admission_number": "O251184",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 44,
+    "name": "IRAGADINDLA RAVITEJA",
+    "gender": "M",
+    "admission_number": "O251185",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 45,
+    "name": "BILLE CHARAN TEJA",
+    "gender": "M",
+    "admission_number": "O251187",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 46,
+    "name": "MUDDA ANAND",
+    "gender": "M",
+    "admission_number": "O251190",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 47,
+    "name": "BEERAKA SRIHARI KRISHNA",
+    "gender": "M",
+    "admission_number": "O251191",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 48,
+    "name": "VATTIPROLU VIJAY KUMAR",
+    "gender": "M",
+    "admission_number": "O251192",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 49,
+    "name": "KALAPARTHI SAI PAVAN KUMAR",
+    "gender": "M",
+    "admission_number": "O251194",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 50,
+    "name": "MANIKALA ROHITH",
+    "gender": "M",
+    "admission_number": "O251197",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 51,
+    "name": "MD SAMEER",
+    "gender": "M",
+    "admission_number": "O251198",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 52,
+    "name": "BONDA CHARAN SAI",
+    "gender": "M",
+    "admission_number": "O251200",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 53,
+    "name": "BHEEMARAPU RAJESH",
+    "gender": "M",
+    "admission_number": "O251212",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 54,
+    "name": "ANUGONDA MALLIKARJUNA",
+    "gender": "M",
+    "admission_number": "O251228",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 55,
+    "name": "ROWTHU SATISH",
+    "gender": "M",
+    "admission_number": "O251232",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 56,
+    "name": "NENAVATH RAJESH NAIK",
+    "gender": "M",
+    "admission_number": "O251239",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 57,
+    "name": "USARTHI GANESH",
+    "gender": "M",
+    "admission_number": "O251240",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 58,
+    "name": "MARREDDI SAIKISHORE",
+    "gender": "M",
+    "admission_number": "O251244",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 59,
+    "name": "KOLA MADHAVA SAI",
+    "gender": "M",
+    "admission_number": "O251246",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 60,
+    "name": "VALLAMKONDU VENKATA VARUN SANDESH",
+    "gender": "M",
+    "admission_number": "O251252",
+    "section": "GAMMA8"
+  },
+  {
+    "s_no": 1,
+    "name": "NALI MAHA LAKSHMI",
+    "gender": "F",
+    "admission_number": "O251256",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 2,
+    "name": "GAJULA ADILAKSHMI",
+    "gender": "F",
+    "admission_number": "O251257",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 3,
+    "name": "BANAVATH MEGHANA",
+    "gender": "F",
+    "admission_number": "O251259",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 4,
+    "name": "BANOTH MEGHANA BAI",
+    "gender": "F",
+    "admission_number": "O251261",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 5,
+    "name": "KADIM ARCHANA REKHA",
+    "gender": "F",
+    "admission_number": "O251262",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 6,
+    "name": "ESLAVATH TEJA SRI BAI",
+    "gender": "F",
+    "admission_number": "O251265",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 7,
+    "name": "MUDE KALPANA BAI",
+    "gender": "F",
+    "admission_number": "O251266",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 8,
+    "name": "MUPPARAJU BHARGAVI",
+    "gender": "F",
+    "admission_number": "O251267",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 9,
+    "name": "MALLIKA LAKSHMI PRASANNA",
+    "gender": "F",
+    "admission_number": "O251269",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 10,
+    "name": "CHALAMCHARLA SRAVYA",
+    "gender": "F",
+    "admission_number": "O251271",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 11,
+    "name": "ERUKALA SRI MAHA LAKSHMI",
+    "gender": "F",
+    "admission_number": "O251272",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 12,
+    "name": "TULIMELLI SAI HARSHINI",
+    "gender": "F",
+    "admission_number": "O251276",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 13,
+    "name": "RACHAKONDA PAVANI",
+    "gender": "F",
+    "admission_number": "O251278",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 14,
+    "name": "MALLEPOGU JHANSI",
+    "gender": "F",
+    "admission_number": "O251283",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 15,
+    "name": "TAGEERU SANJANA",
+    "gender": "F",
+    "admission_number": "O251285",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 16,
+    "name": "NUTHALAPATI SUJITHA",
+    "gender": "F",
+    "admission_number": "O251286",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 17,
+    "name": "TIMMANAPALLI AMRUTHA SAI",
+    "gender": "F",
+    "admission_number": "O251288",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 18,
+    "name": "KONAPALA GAYATHRI",
+    "gender": "F",
+    "admission_number": "O251293",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 19,
+    "name": "KAMATHAM MEGHANA",
+    "gender": "F",
+    "admission_number": "O251298",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 20,
+    "name": "VENNA BHAVYA SRI SAI",
+    "gender": "F",
+    "admission_number": "O251299",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 21,
+    "name": "PARUCHURU PRANATHI",
+    "gender": "F",
+    "admission_number": "O251300",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 22,
+    "name": "TAMADA SINDHUJA",
+    "gender": "F",
+    "admission_number": "O251306",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 23,
+    "name": "V SINDHUBHARGAVI",
+    "gender": "F",
+    "admission_number": "O251309",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 24,
+    "name": "YADLA SOWJANYA",
+    "gender": "F",
+    "admission_number": "O251310",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 25,
+    "name": "AVALA JOSHI RANI",
+    "gender": "F",
+    "admission_number": "O251311",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 26,
+    "name": "BISHANNAGARI DIVYANJALI",
+    "gender": "F",
+    "admission_number": "O251316",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 27,
+    "name": "YARAGALLA HASINI",
+    "gender": "F",
+    "admission_number": "O251321",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 28,
+    "name": "SHAIK ABIDA KOUSAR",
+    "gender": "F",
+    "admission_number": "O251322",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 29,
+    "name": "RACHAVALLA POOJITHA",
+    "gender": "F",
+    "admission_number": "O251324",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 30,
+    "name": "DASI HARINI",
+    "gender": "F",
+    "admission_number": "O251327",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 31,
+    "name": "YENGALA SNEHA",
+    "gender": "F",
+    "admission_number": "O251330",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 32,
+    "name": "VELPULA NANDHINI",
+    "gender": "F",
+    "admission_number": "O251331",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 33,
+    "name": "PAGALA SREELEKHA",
+    "gender": "F",
+    "admission_number": "O251334",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 34,
+    "name": "GEDELA KALYANI",
+    "gender": "F",
+    "admission_number": "O251335",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 35,
+    "name": "KAKARLA SREE LAKSHMI PRANATHI",
+    "gender": "F",
+    "admission_number": "O251336",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 36,
+    "name": "VALLAPUNENI SIVAMANI",
+    "gender": "F",
+    "admission_number": "O251337",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 37,
+    "name": "JANDRAPALLI SIRI PRASANNA",
+    "gender": "F",
+    "admission_number": "O251340",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 38,
+    "name": "AENAVELLI SANHITHA",
+    "gender": "F",
+    "admission_number": "O251341",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 39,
+    "name": "PULLEDDULA SAILAJA",
+    "gender": "F",
+    "admission_number": "O251343",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 40,
+    "name": "RAKETLA SAHITHI",
+    "gender": "F",
+    "admission_number": "O251344",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 41,
+    "name": "EERANALA BHAVYA SAI",
+    "gender": "F",
+    "admission_number": "O251347",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 42,
+    "name": "MUDE KUSHAL NAIK",
+    "gender": "M",
+    "admission_number": "O251258",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 43,
+    "name": "BUKKE DINESH KUMAR NAIK",
+    "gender": "M",
+    "admission_number": "O251260",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 44,
+    "name": "AMGOTH SHASHI KUMAR NAIK",
+    "gender": "M",
+    "admission_number": "O251263",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 45,
+    "name": "KONETI SATHISH",
+    "gender": "M",
+    "admission_number": "O251264",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 46,
+    "name": "MOTA RAVICHANDRA",
+    "gender": "M",
+    "admission_number": "O251270",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 47,
+    "name": "CHITTIPIREDDY SANTHOSH",
+    "gender": "M",
+    "admission_number": "O251273",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 48,
+    "name": "MENAVATH BHARATH KUMAR NAIK",
+    "gender": "M",
+    "admission_number": "O251274",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 49,
+    "name": "VADTHE SREESHANTH NAIK",
+    "gender": "M",
+    "admission_number": "O251275",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 50,
+    "name": "RAM TEJA THOTA",
+    "gender": "M",
+    "admission_number": "O251277",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 51,
+    "name": "RAMAVATH CHOLARAJU NAIK",
+    "gender": "M",
+    "admission_number": "O251279",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 52,
+    "name": "KUDURU WILLIAM",
+    "gender": "M",
+    "admission_number": "O251281",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 53,
+    "name": "BORUGADDA KEVIN",
+    "gender": "M",
+    "admission_number": "O251284",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 54,
+    "name": "KONAKALA VISHNU VARDHAN",
+    "gender": "M",
+    "admission_number": "O251290",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 55,
+    "name": "KOMMA DINESH KUMAR REDDY",
+    "gender": "M",
+    "admission_number": "O251292",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 56,
+    "name": "DALI NITHISH",
+    "gender": "M",
+    "admission_number": "O251294",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 57,
+    "name": "MURIMAENI LIKITH KUMAR",
+    "gender": "M",
+    "admission_number": "O251304",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 58,
+    "name": "VANNAL GANESH",
+    "gender": "M",
+    "admission_number": "O251305",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 59,
+    "name": "PAVALLA MADHU CHARAN",
+    "gender": "M",
+    "admission_number": "O251312",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 60,
+    "name": "SYED NAZEER BABU",
+    "gender": "M",
+    "admission_number": "O251315",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 61,
+    "name": "MUDE RAJESH NAIK",
+    "gender": "M",
+    "admission_number": "S251109",
+    "section": "GAMMA9"
+  },
+  {
+    "s_no": 1,
+    "name": "DONEPUDI RAMYA",
+    "gender": "F",
+    "admission_number": "O240918",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 2,
+    "name": "BOLLA SAI SAHITYA",
+    "gender": "F",
+    "admission_number": "O250014",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 3,
+    "name": "KORLAPATI JNANA DEEPIKA",
+    "gender": "F",
+    "admission_number": "O250016",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 4,
+    "name": "BALLA TULASI PRIYA",
+    "gender": "F",
+    "admission_number": "O250017",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 5,
+    "name": "VINNAKOTA SAI LAKSHMI DURGA",
+    "gender": "F",
+    "admission_number": "O250018",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 6,
+    "name": "MADDIKUNTA PUJITHA",
+    "gender": "F",
+    "admission_number": "O250020",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 7,
+    "name": "TULLURI JAYA VENKATA SIRI CHANDANA",
+    "gender": "F",
+    "admission_number": "O250023",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 8,
+    "name": "PASUPULETI ASHASRI SOWMYA",
+    "gender": "F",
+    "admission_number": "O250026",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 9,
+    "name": "MADDURI KAVYA",
+    "gender": "F",
+    "admission_number": "O250027",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 10,
+    "name": "NILLA KOTA SUBBALAKSHMI",
+    "gender": "F",
+    "admission_number": "O250028",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 11,
+    "name": "ADDALA JAYASRI",
+    "gender": "F",
+    "admission_number": "O250029",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 12,
+    "name": "PALANKI LIKHITHA",
+    "gender": "F",
+    "admission_number": "O250031",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 13,
+    "name": "SHAIK BAVI SHAHIN",
+    "gender": "F",
+    "admission_number": "O250035",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 14,
+    "name": "ALAVALA PUJITHA",
+    "gender": "F",
+    "admission_number": "O250038",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 15,
+    "name": "PENTAKOTI SRI VIJAYA",
+    "gender": "F",
+    "admission_number": "O250040",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 16,
+    "name": "SATTENAPALLI MOUNIKA",
+    "gender": "F",
+    "admission_number": "O250041",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 17,
+    "name": "KANAMARLA KALAVATHI",
+    "gender": "F",
+    "admission_number": "O250044",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 18,
+    "name": "PAMARTHI NAGA SIVA JYOTHI",
+    "gender": "F",
+    "admission_number": "O250045",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 19,
+    "name": "YAJJIPURAPU JHANSI",
+    "gender": "F",
+    "admission_number": "O250046",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 20,
+    "name": "VIRIGINENI SREEHARIKA",
+    "gender": "F",
+    "admission_number": "O250048",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 21,
+    "name": "JANNU JYOTHI SRI",
+    "gender": "F",
+    "admission_number": "O250049",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 22,
+    "name": "PATHAKOTI    THULASI",
+    "gender": "F",
+    "admission_number": "O250050",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 23,
+    "name": "VEERANKI LOWKYA SRI DURGA",
+    "gender": "F",
+    "admission_number": "O250059",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 24,
+    "name": "BUDDEPU ALEKHYA",
+    "gender": "F",
+    "admission_number": "O250060",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 25,
+    "name": "NUTAKKI SIRISHA",
+    "gender": "F",
+    "admission_number": "O250061",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 26,
+    "name": "USA GEETHANJALI",
+    "gender": "F",
+    "admission_number": "O250064",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 27,
+    "name": "KANDREKULA YUVA RANI",
+    "gender": "F",
+    "admission_number": "O250065",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 28,
+    "name": "SAI SUDHIKSHA BETHAPUDI",
+    "gender": "F",
+    "admission_number": "O250066",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 29,
+    "name": "NARALA SIVA MANI",
+    "gender": "F",
+    "admission_number": "O250067",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 30,
+    "name": "KARNATI SPANDANA",
+    "gender": "F",
+    "admission_number": "O250070",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 31,
+    "name": "BANDAARU HEMANTHINI",
+    "gender": "F",
+    "admission_number": "O250072",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 32,
+    "name": "BAIRI CHANDINI",
+    "gender": "F",
+    "admission_number": "O250073",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 33,
+    "name": "ORSU SAI SUSHMA",
+    "gender": "F",
+    "admission_number": "O250074",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 34,
+    "name": "JUVVALA LAHARI PRASANNA",
+    "gender": "F",
+    "admission_number": "O250078",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 35,
+    "name": "NANDIREDDY VENKATA YASHASWINI",
+    "gender": "F",
+    "admission_number": "O250079",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 36,
+    "name": "GARA JAHNAVI",
+    "gender": "F",
+    "admission_number": "O250081",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 37,
+    "name": "PONNAPUDI SIRISHA",
+    "gender": "F",
+    "admission_number": "O250083",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 38,
+    "name": "MARURY SAHITHI KRISHNA",
+    "gender": "F",
+    "admission_number": "O250084",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 39,
+    "name": "CHEJARLA VYSHNAVI",
+    "gender": "F",
+    "admission_number": "O250085",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 40,
+    "name": "TRIVENI DUBA",
+    "gender": "F",
+    "admission_number": "O250091",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 41,
+    "name": "RAJULAPATI CHAITHRA SIVA NAGA  SAI SRI",
+    "gender": "F",
+    "admission_number": "O250092",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 42,
+    "name": "YAMA NIREEKSHANA",
+    "gender": "F",
+    "admission_number": "S251068",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 43,
+    "name": "MAJJARI VENKATA SURENDRA",
+    "gender": "M",
+    "admission_number": "O250010",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 44,
+    "name": "GURRALA SAPTHAGIRISWAR REDDY",
+    "gender": "M",
+    "admission_number": "O250011",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 45,
+    "name": "RAVELLA PURNA NAGA VIGNESH",
+    "gender": "M",
+    "admission_number": "O250012",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 46,
+    "name": "RAVU VENKATA RADHAKRISHNA",
+    "gender": "M",
+    "admission_number": "O250015",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 47,
+    "name": "MUVVALA LIKHITH SAI",
+    "gender": "M",
+    "admission_number": "O250025",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 48,
+    "name": "DERANGULA KARTHIK",
+    "gender": "M",
+    "admission_number": "O250030",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 49,
+    "name": "INDLA KARTHIK REDDY",
+    "gender": "M",
+    "admission_number": "O250032",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 50,
+    "name": "KILAPARTHI SRIRAM",
+    "gender": "M",
+    "admission_number": "O250036",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 51,
+    "name": "MUTTIREDDY TARUN KUMAR",
+    "gender": "M",
+    "admission_number": "O250039",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 52,
+    "name": "YADLAPALLI JAYA SAI GANAPATHI",
+    "gender": "M",
+    "admission_number": "O250056",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 53,
+    "name": "THOTA SHANMUKHA RAO",
+    "gender": "M",
+    "admission_number": "O250063",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 54,
+    "name": "KETHAVARAPU HEMANTH KUMAR",
+    "gender": "M",
+    "admission_number": "O250069",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 55,
+    "name": "VANARASI SARAN KUMAR",
+    "gender": "M",
+    "admission_number": "O250077",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 56,
+    "name": "GUTTULA SURESH",
+    "gender": "M",
+    "admission_number": "O250082",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 57,
+    "name": "ZAKKULA CHETHAN",
+    "gender": "M",
+    "admission_number": "O250086",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 58,
+    "name": "GARIGANTI JASWANTH MANI CHARAN",
+    "gender": "M",
+    "admission_number": "O250093",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 59,
+    "name": "KANITHI SAI SATYA GANESH",
+    "gender": "M",
+    "admission_number": "O250099",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 60,
+    "name": "KOMIRELI JAGADEESH",
+    "gender": "M",
+    "admission_number": "O250101",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 61,
+    "name": "CHEJARLA NAVA DHEER",
+    "gender": "M",
+    "admission_number": "O250106",
+    "section": "LAMBDA1"
+  },
+  {
+    "s_no": 1,
+    "name": "ADIGARLA ROHINI",
+    "gender": "F",
+    "admission_number": "O250677",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 2,
+    "name": "SHAIK ASMATH",
+    "gender": "F",
+    "admission_number": "O250679",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 3,
+    "name": "SAIKAM BHAVANI",
+    "gender": "F",
+    "admission_number": "O250680",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 4,
+    "name": "DOOSARI SNEHALATHA",
+    "gender": "F",
+    "admission_number": "O250681",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 5,
+    "name": "MITHUKULLA BHAVYA SRI",
+    "gender": "F",
+    "admission_number": "O250682",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 6,
+    "name": "THOTA GNANA SRIVALLI",
+    "gender": "F",
+    "admission_number": "O250686",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 7,
+    "name": "LANKA SAI HASINI",
+    "gender": "F",
+    "admission_number": "O250689",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 8,
+    "name": "ANCHALA BHARGAVI",
+    "gender": "F",
+    "admission_number": "O250690",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 9,
+    "name": "CHODISETTI NAGA VIJAYA MAHESWARI",
+    "gender": "F",
+    "admission_number": "O250691",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 10,
+    "name": "VADDE SUNITHA",
+    "gender": "F",
+    "admission_number": "O250692",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 11,
+    "name": "DARLA MAHITHA",
+    "gender": "F",
+    "admission_number": "O250693",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 12,
+    "name": "KIMIDI NAGAMANI",
+    "gender": "F",
+    "admission_number": "O250694",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 13,
+    "name": "THADIVALASA RUCHITHA",
+    "gender": "F",
+    "admission_number": "O250695",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 14,
+    "name": "SHAIK THAREEFA",
+    "gender": "F",
+    "admission_number": "O250696",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 15,
+    "name": "MALLISETTI  ROSHANA",
+    "gender": "F",
+    "admission_number": "O250697",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 16,
+    "name": "PALLAPU BHARGAVI",
+    "gender": "F",
+    "admission_number": "O250698",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 17,
+    "name": "POLAVARAPU JAHNAVI SAI PRIYA",
+    "gender": "F",
+    "admission_number": "O250699",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 18,
+    "name": "SHAIK SUHANAW",
+    "gender": "F",
+    "admission_number": "O250708",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 19,
+    "name": "ARDALA SRILAKSHMI",
+    "gender": "F",
+    "admission_number": "O250710",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 20,
+    "name": "MANJULA DIVYA VENKATA NAGA PRANATHI",
+    "gender": "F",
+    "admission_number": "O250715",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 21,
+    "name": "GOKARLA KAVYASRI",
+    "gender": "F",
+    "admission_number": "O250721",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 22,
+    "name": "DIVI NAMRATHA",
+    "gender": "F",
+    "admission_number": "O250725",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 23,
+    "name": "GURIJALA PALLAVI",
+    "gender": "F",
+    "admission_number": "O250728",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 24,
+    "name": "GORIPARTHI MANASA KRISHNA SREE",
+    "gender": "F",
+    "admission_number": "O250729",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 25,
+    "name": "KADIMI LAHARI SRI",
+    "gender": "F",
+    "admission_number": "O250731",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 26,
+    "name": "KOLAGANI SAI SREEJA",
+    "gender": "F",
+    "admission_number": "O250732",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 27,
+    "name": "MADDU SHARMILA",
+    "gender": "F",
+    "admission_number": "O250735",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 28,
+    "name": "GUBBALA REVATHI",
+    "gender": "F",
+    "admission_number": "O250738",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 29,
+    "name": "GARIKINA VENKATA LAKSHMI",
+    "gender": "F",
+    "admission_number": "O250742",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 30,
+    "name": "SIMMA JAHNAVI",
+    "gender": "F",
+    "admission_number": "O250743",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 31,
+    "name": "SANAPATHI HARIKA",
+    "gender": "F",
+    "admission_number": "O250746",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 32,
+    "name": "PAMARTHI JOSHIKA",
+    "gender": "F",
+    "admission_number": "O250747",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 33,
+    "name": "KALIKIVAYI AKSHAYA",
+    "gender": "F",
+    "admission_number": "O250749",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 34,
+    "name": "ORSU AKHILA",
+    "gender": "F",
+    "admission_number": "O250750",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 35,
+    "name": "KARRI NAGA VENKATA MONIKA MADHURI",
+    "gender": "F",
+    "admission_number": "O250751",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 36,
+    "name": "MUDIDANA SIRICHANDANA",
+    "gender": "F",
+    "admission_number": "O250752",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 37,
+    "name": "KORUPROLU RAMYA",
+    "gender": "F",
+    "admission_number": "O250753",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 38,
+    "name": "MALLA SATYA POOJITHA",
+    "gender": "F",
+    "admission_number": "O250754",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 39,
+    "name": "MUKKU NAMRUTHA",
+    "gender": "F",
+    "admission_number": "O250759",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 40,
+    "name": "SANGANA RUSHMITHA",
+    "gender": "F",
+    "admission_number": "O250762",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 41,
+    "name": "MYCHARLA RAMYA SRI",
+    "gender": "F",
+    "admission_number": "O250767",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 42,
+    "name": "DIBBAGANDLA VEDA VARSHAN",
+    "gender": "M",
+    "admission_number": "O250687",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 43,
+    "name": "VEMAVARAPU LAKSHMAN",
+    "gender": "M",
+    "admission_number": "O250700",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 44,
+    "name": "KUNDETI SAI UTTEJ DEEPAK",
+    "gender": "M",
+    "admission_number": "O250702",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 45,
+    "name": "JYESTA NAGA SANJAY",
+    "gender": "M",
+    "admission_number": "O250703",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 46,
+    "name": "SHAIK IMMTIYAZ",
+    "gender": "M",
+    "admission_number": "O250707",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 47,
+    "name": "KUNTUMALLA RANGAJAYADEV",
+    "gender": "M",
+    "admission_number": "O250709",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 48,
+    "name": "NETALA VAMSI KRISHNA",
+    "gender": "M",
+    "admission_number": "O250724",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 49,
+    "name": "KODURU JAYA SURYA",
+    "gender": "M",
+    "admission_number": "O250730",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 50,
+    "name": "CHITTURI LAKSHMAN SAI KIRAN",
+    "gender": "M",
+    "admission_number": "O250740",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 51,
+    "name": "BURLI BHUSHAN",
+    "gender": "M",
+    "admission_number": "O250758",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 52,
+    "name": "PALAVALASA DHANUSH",
+    "gender": "M",
+    "admission_number": "O250760",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 53,
+    "name": "PALENI DHANUSH",
+    "gender": "M",
+    "admission_number": "O250761",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 54,
+    "name": "GULLINKALA YESU RAJU",
+    "gender": "M",
+    "admission_number": "O250766",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 55,
+    "name": "THOTA CHARAN TEJA",
+    "gender": "M",
+    "admission_number": "O250776",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 56,
+    "name": "SANPAGA KUMAR SATISH SUDALAMANI",
+    "gender": "M",
+    "admission_number": "O250779",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 57,
+    "name": "GOTTAPU GUNA SHEKHAR SATEESH",
+    "gender": "M",
+    "admission_number": "O250783",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 58,
+    "name": "THUMU HEMANTH",
+    "gender": "M",
+    "admission_number": "O250787",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 59,
+    "name": "BARLA MOHAN KRISHNA GANGARAJU",
+    "gender": "M",
+    "admission_number": "O250789",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 60,
+    "name": "JOGA KUMAR SWAMI",
+    "gender": "M",
+    "admission_number": "O250790",
+    "section": "LAMBDA10"
+  },
+  {
+    "s_no": 1,
+    "name": "KONDA SARANYA",
+    "gender": "F",
+    "admission_number": "O250768",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 2,
+    "name": "SAYYAD AZEEMA BANU",
+    "gender": "F",
+    "admission_number": "O250769",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 3,
+    "name": "PAKAM YASWINI PRIYA",
+    "gender": "F",
+    "admission_number": "O250771",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 4,
+    "name": "BELLAMKONDA SRUTHI",
+    "gender": "F",
+    "admission_number": "O250773",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 5,
+    "name": "SONTI SHANMUKHI PRIYA",
+    "gender": "F",
+    "admission_number": "O250774",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 6,
+    "name": "GOKARAJU HARSHITHA",
+    "gender": "F",
+    "admission_number": "O250775",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 7,
+    "name": "NALLIBOYINA NAGA RAMYA SRI",
+    "gender": "F",
+    "admission_number": "O250777",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 8,
+    "name": "SANGITHA SIRISHA",
+    "gender": "F",
+    "admission_number": "O250780",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 9,
+    "name": "MEDISETTI NAGA DURGA JYOTHI REKHA",
+    "gender": "F",
+    "admission_number": "O250781",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 10,
+    "name": "SANGITHA BHRAMARAAMBIKA",
+    "gender": "F",
+    "admission_number": "O250782",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 11,
+    "name": "GUBBALA HASINI",
+    "gender": "F",
+    "admission_number": "O250786",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 12,
+    "name": "GANTA HEMASRI",
+    "gender": "F",
+    "admission_number": "O250793",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 13,
+    "name": "PEYYALA DEVISREE",
+    "gender": "F",
+    "admission_number": "O250795",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 14,
+    "name": "TALARI MADHUSREE",
+    "gender": "F",
+    "admission_number": "O250796",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 15,
+    "name": "KAMADULA RUKMINI DEVI",
+    "gender": "F",
+    "admission_number": "O250799",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 16,
+    "name": "CHITTURI SATYA NAVYA SRI",
+    "gender": "F",
+    "admission_number": "O250800",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 17,
+    "name": "ROUTHU JAHNAVI MAHA LAKSHMI",
+    "gender": "F",
+    "admission_number": "O250802",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 18,
+    "name": "SABBAVARAPU DEEPIKA",
+    "gender": "F",
+    "admission_number": "O250803",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 19,
+    "name": "TAMATAPU KEERTHANA",
+    "gender": "F",
+    "admission_number": "O250805",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 20,
+    "name": "ARASADA DEEKSHITHA",
+    "gender": "F",
+    "admission_number": "O250807",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 21,
+    "name": "BOTTA PRASANNA",
+    "gender": "F",
+    "admission_number": "O250810",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 22,
+    "name": "NAKKA SIVA KUMARI",
+    "gender": "F",
+    "admission_number": "O250813",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 23,
+    "name": "YARLAGADDA SRI LAKSHMI PRASANNA",
+    "gender": "F",
+    "admission_number": "O250814",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 24,
+    "name": "DARLA DURGA BHAVANI",
+    "gender": "F",
+    "admission_number": "O250818",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 25,
+    "name": "AGRAHARAM REDDY SRUTHI",
+    "gender": "F",
+    "admission_number": "O250820",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 26,
+    "name": "MULPURI JOSHNAVI",
+    "gender": "F",
+    "admission_number": "O250821",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 27,
+    "name": "KAMSALA SHARANYASREE",
+    "gender": "F",
+    "admission_number": "O250822",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 28,
+    "name": "KALLA KEERTHANA DURGA",
+    "gender": "F",
+    "admission_number": "O250828",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 29,
+    "name": "MADAKA RAMYA SREE NIDHI",
+    "gender": "F",
+    "admission_number": "O250830",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 30,
+    "name": "KALLE MYTHRI",
+    "gender": "F",
+    "admission_number": "O250833",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 31,
+    "name": "YENUMULA DHANUSKA",
+    "gender": "F",
+    "admission_number": "O250834",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 32,
+    "name": "BONTHU RAMADEVI",
+    "gender": "F",
+    "admission_number": "O250835",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 33,
+    "name": "GODESI NAVYA SRI",
+    "gender": "F",
+    "admission_number": "O250836",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 34,
+    "name": "DAMMAI THANMAI",
+    "gender": "F",
+    "admission_number": "O250837",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 35,
+    "name": "SHAIK ARSHIYA",
+    "gender": "F",
+    "admission_number": "O250839",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 36,
+    "name": "KOLLI MIDHUNA",
+    "gender": "F",
+    "admission_number": "O250844",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 37,
+    "name": "KADALI YAJNA PRIYA",
+    "gender": "F",
+    "admission_number": "O250845",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 38,
+    "name": "LANKA MANASA",
+    "gender": "F",
+    "admission_number": "O250846",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 39,
+    "name": "NELLIPARTHI HANSHIKA",
+    "gender": "F",
+    "admission_number": "O250852",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 40,
+    "name": "B DHAIRYA LAKSHMI",
+    "gender": "F",
+    "admission_number": "O250857",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 41,
+    "name": "ABDUL KHADIJA TAHIRA",
+    "gender": "F",
+    "admission_number": "O250861",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 42,
+    "name": "KONAPALA ABHISHEK",
+    "gender": "M",
+    "admission_number": "O250809",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 43,
+    "name": "SAYA MAHESH BABU",
+    "gender": "M",
+    "admission_number": "O250812",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 44,
+    "name": "VEERAMALLA CHARAN SAI",
+    "gender": "M",
+    "admission_number": "O250815",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 45,
+    "name": "GANDHAM NIKHIL RAJU",
+    "gender": "M",
+    "admission_number": "O250816",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 46,
+    "name": "YEDDULA ANJITH KUMAR",
+    "gender": "M",
+    "admission_number": "O250817",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 47,
+    "name": "REGALLA HEMANTH REDDY",
+    "gender": "M",
+    "admission_number": "O250831",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 48,
+    "name": "MAVILLA  GANESH NAIDU",
+    "gender": "M",
+    "admission_number": "O250832",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 49,
+    "name": "TULU KAMESH",
+    "gender": "M",
+    "admission_number": "O250843",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 50,
+    "name": "MAJJI NAGENDRA",
+    "gender": "M",
+    "admission_number": "O250848",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 51,
+    "name": "MARNIDI BALA RAJESH",
+    "gender": "M",
+    "admission_number": "O250850",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 52,
+    "name": "KARRI VINAY PRASANTH",
+    "gender": "M",
+    "admission_number": "O250851",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 53,
+    "name": "NANDAVARAPU SHADHIK",
+    "gender": "M",
+    "admission_number": "O250856",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 54,
+    "name": "BUDDHA LOHITH KUMAR",
+    "gender": "M",
+    "admission_number": "O250859",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 55,
+    "name": "PEYYALA GANESH",
+    "gender": "M",
+    "admission_number": "O250860",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 56,
+    "name": "KOTLA VIJAY BHASKAR",
+    "gender": "M",
+    "admission_number": "O250881",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 57,
+    "name": "SANDRA RUTHVIK ROYAL",
+    "gender": "M",
+    "admission_number": "O250893",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 58,
+    "name": "GOVINDA NANI",
+    "gender": "M",
+    "admission_number": "O250898",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 59,
+    "name": "BALUSU SAI REVANTH",
+    "gender": "M",
+    "admission_number": "O250899",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 60,
+    "name": "CHODIPILLI NAGARAJU",
+    "gender": "M",
+    "admission_number": "O250900",
+    "section": "LAMBDA11"
+  },
+  {
+    "s_no": 1,
+    "name": "VANGAPANDU SOWMYA",
+    "gender": "F",
+    "admission_number": "O250864",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 2,
+    "name": "UDAMALA BHARGAVI",
+    "gender": "F",
+    "admission_number": "O250866",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 3,
+    "name": "KOMATI JYOTHI",
+    "gender": "F",
+    "admission_number": "O250869",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 4,
+    "name": "TANDRANKI CHANDANA",
+    "gender": "F",
+    "admission_number": "O250870",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 5,
+    "name": "RAJANA KEERTHANA",
+    "gender": "F",
+    "admission_number": "O250871",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 6,
+    "name": "KALLA VEDA SAI SRI",
+    "gender": "F",
+    "admission_number": "O250872",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 7,
+    "name": "ANGIREKULA AMRUTA",
+    "gender": "F",
+    "admission_number": "O250873",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 8,
+    "name": "TIPARTHI VENKATA JAHNAVI PRASANNA LAKSHMI",
+    "gender": "F",
+    "admission_number": "O250874",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 9,
+    "name": "LOLUGU HIMA BINDU",
+    "gender": "F",
+    "admission_number": "O250878",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 10,
+    "name": "IJJADA HASINI",
+    "gender": "F",
+    "admission_number": "O250882",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 11,
+    "name": "MADAPARTHI GAYATHRI",
+    "gender": "F",
+    "admission_number": "O250883",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 12,
+    "name": "MARELLA GEYA AKSHAYA GEETHIKA",
+    "gender": "F",
+    "admission_number": "O250884",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 13,
+    "name": "GAJJALA RAJASRI",
+    "gender": "F",
+    "admission_number": "O250887",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 14,
+    "name": "CHILAKALA AISHWARYA",
+    "gender": "F",
+    "admission_number": "O250888",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 15,
+    "name": "SURLA PUJITHA",
+    "gender": "F",
+    "admission_number": "O250891",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 16,
+    "name": "SHAIK MUNAVVAR AHMADI BEGUM",
+    "gender": "F",
+    "admission_number": "O250892",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 17,
+    "name": "VADLAPUDI DIVYA HARSHINI",
+    "gender": "F",
+    "admission_number": "O250896",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 18,
+    "name": "BEJAWADA LEELA VYSHNAVI",
+    "gender": "F",
+    "admission_number": "O250902",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 19,
+    "name": "GUVVALA NAGA SRAVANI",
+    "gender": "F",
+    "admission_number": "O250905",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 20,
+    "name": "NERAVATI KEERTHI",
+    "gender": "F",
+    "admission_number": "O250907",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 21,
+    "name": "DUDDU SUSMITHA",
+    "gender": "F",
+    "admission_number": "O250909",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 22,
+    "name": "BOYA KRISHNA VENI",
+    "gender": "F",
+    "admission_number": "O250912",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 23,
+    "name": "KANAKAM SANDHYA",
+    "gender": "F",
+    "admission_number": "O250913",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 24,
+    "name": "K S DEEPIKA",
+    "gender": "F",
+    "admission_number": "O250916",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 25,
+    "name": "PUJALA TEJAVATHI",
+    "gender": "F",
+    "admission_number": "O250919",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 26,
+    "name": "IMMADI MAHESWARI",
+    "gender": "F",
+    "admission_number": "O250920",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 27,
+    "name": "KOTHAPALLI SRILAKSHMI",
+    "gender": "F",
+    "admission_number": "O250922",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 28,
+    "name": "AAKULA TEJASWINI",
+    "gender": "F",
+    "admission_number": "O250923",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 29,
+    "name": "ADAPALA HARSHITHA",
+    "gender": "F",
+    "admission_number": "O250924",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 30,
+    "name": "BETHAPUDI MANA SRI",
+    "gender": "F",
+    "admission_number": "O250926",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 31,
+    "name": "PATTIKA INDU PRIYA",
+    "gender": "F",
+    "admission_number": "O250927",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 32,
+    "name": "ATHIPATI TEJA SRI",
+    "gender": "F",
+    "admission_number": "O250930",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 33,
+    "name": "SREE REDDY RISHITHA",
+    "gender": "F",
+    "admission_number": "O250931",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 34,
+    "name": "NALLIBOYINA HARIKA",
+    "gender": "F",
+    "admission_number": "O250932",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 35,
+    "name": "TANIK SAI DURGA VIDYA SRI",
+    "gender": "F",
+    "admission_number": "O250938",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 36,
+    "name": "MATTAPARTHI ASHA LAKSHMI",
+    "gender": "F",
+    "admission_number": "O250939",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 37,
+    "name": "GOKARAJU LAKSHMI PRASANNA",
+    "gender": "F",
+    "admission_number": "O250940",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 38,
+    "name": "AVULA JESWITHAREDDY",
+    "gender": "F",
+    "admission_number": "O250944",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 39,
+    "name": "SHAIK GOUSIYA",
+    "gender": "F",
+    "admission_number": "O250945",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 40,
+    "name": "GURRAM RUCHITHA",
+    "gender": "F",
+    "admission_number": "O250946",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 41,
+    "name": "MADINENI KEERTHI VARSHINI",
+    "gender": "F",
+    "admission_number": "O250947",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 42,
+    "name": "BAINAPALEM SATYA CHANDRASEKHAR",
+    "gender": "M",
+    "admission_number": "O250903",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 43,
+    "name": "VOTTIKALA BALA ANUSH KUMAR",
+    "gender": "M",
+    "admission_number": "O250904",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 44,
+    "name": "GUDISINTI NANDA KISHORE",
+    "gender": "M",
+    "admission_number": "O250908",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 45,
+    "name": "PADIGERI CHAITHANYA KUMAR",
+    "gender": "M",
+    "admission_number": "O250911",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 46,
+    "name": "TALARI KARTHIK",
+    "gender": "M",
+    "admission_number": "O250915",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 47,
+    "name": "ATLA BALAMANOHAR REDDY",
+    "gender": "M",
+    "admission_number": "O250917",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 48,
+    "name": "MULA ADITYA REDDY",
+    "gender": "M",
+    "admission_number": "O250918",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 49,
+    "name": "EDIGA BALAJI GOWD",
+    "gender": "M",
+    "admission_number": "O250921",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 50,
+    "name": "MAREEDI MAHESH",
+    "gender": "M",
+    "admission_number": "O250925",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 51,
+    "name": "PEELA SAI JAGAN BOBY",
+    "gender": "M",
+    "admission_number": "O250928",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 52,
+    "name": "KOLA VEERABABU",
+    "gender": "M",
+    "admission_number": "O250933",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 53,
+    "name": "BADAMPUDI SHYAM",
+    "gender": "M",
+    "admission_number": "O250935",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 54,
+    "name": "KOTA VEERA SAIKIRAN",
+    "gender": "M",
+    "admission_number": "O250937",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 55,
+    "name": "MUPPURI LAKSHMI SRIKANTH",
+    "gender": "M",
+    "admission_number": "O250943",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 56,
+    "name": "SHAIK THAHASEER BABA",
+    "gender": "M",
+    "admission_number": "O250953",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 57,
+    "name": "GANDIKOTA TRIVIKRAM",
+    "gender": "M",
+    "admission_number": "O250954",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 58,
+    "name": "ADDANKI SIDDAIAH",
+    "gender": "M",
+    "admission_number": "O250962",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 59,
+    "name": "PITTU CHANDRA SEKHAR REDDY",
+    "gender": "M",
+    "admission_number": "O250968",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 60,
+    "name": "GUDITI YASHWANTH",
+    "gender": "M",
+    "admission_number": "O250972",
+    "section": "LAMBDA12"
+  },
+  {
+    "s_no": 1,
+    "name": "ANGATI VENKATA LAKSHMI",
+    "gender": "F",
+    "admission_number": "O250094",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 2,
+    "name": "GANDRETI KAVYA",
+    "gender": "F",
+    "admission_number": "O250096",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 3,
+    "name": "KOVVADI PAVITHRA",
+    "gender": "F",
+    "admission_number": "O250097",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 4,
+    "name": "THUPAKULA NAGA VENKATA KUNDANA",
+    "gender": "F",
+    "admission_number": "O250102",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 5,
+    "name": "CHOPPA SRI RAMYA",
+    "gender": "F",
+    "admission_number": "O250103",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 6,
+    "name": "KANDREGULA TEJASWINI",
+    "gender": "F",
+    "admission_number": "O250105",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 7,
+    "name": "SHAIK ASRAPUNNISHA",
+    "gender": "F",
+    "admission_number": "O250111",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 8,
+    "name": "PARISINENI VENKATA SUGUNA",
+    "gender": "F",
+    "admission_number": "O250112",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 9,
+    "name": "PALLA CHARISHMA",
+    "gender": "F",
+    "admission_number": "O250113",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 10,
+    "name": "KANNAMREDDY RAMYA SRI SAI",
+    "gender": "F",
+    "admission_number": "O250114",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 11,
+    "name": "PATTAN FAHIMA",
+    "gender": "F",
+    "admission_number": "O250115",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 12,
+    "name": "DODDA TIRUMALA",
+    "gender": "F",
+    "admission_number": "O250119",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 13,
+    "name": "BADUGU SATHWIKA",
+    "gender": "F",
+    "admission_number": "O250120",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 14,
+    "name": "PUTLURU ANUHYA REDDY",
+    "gender": "F",
+    "admission_number": "O250121",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 15,
+    "name": "KATURI SARASWATHI",
+    "gender": "F",
+    "admission_number": "O250125",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 16,
+    "name": "BOBBADI JYOTHSNA",
+    "gender": "F",
+    "admission_number": "O250126",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 17,
+    "name": "PISINI JAHNAVI",
+    "gender": "F",
+    "admission_number": "O250128",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 18,
+    "name": "PUJALA PRANITHA",
+    "gender": "F",
+    "admission_number": "O250129",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 19,
+    "name": "RAMANATHI SURYA SIRI VENNELA",
+    "gender": "F",
+    "admission_number": "O250131",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 20,
+    "name": "OGGU SHARON",
+    "gender": "F",
+    "admission_number": "O250133",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 21,
+    "name": "PALAMANDA SUDHA",
+    "gender": "F",
+    "admission_number": "O250139",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 22,
+    "name": "KUCHIPUDI JESSY",
+    "gender": "F",
+    "admission_number": "O250140",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 23,
+    "name": "UPPALA AKHILA",
+    "gender": "F",
+    "admission_number": "O250144",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 24,
+    "name": "NAKKA DIVYA SRI",
+    "gender": "F",
+    "admission_number": "O250148",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 25,
+    "name": "YERRABATHINA CHENCHAMMA",
+    "gender": "F",
+    "admission_number": "O250151",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 26,
+    "name": "PAVALLA NAGA SAI ROSHINI",
+    "gender": "F",
+    "admission_number": "O250155",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 27,
+    "name": "DERANGULA SWAPNA",
+    "gender": "F",
+    "admission_number": "O250159",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 28,
+    "name": "MEKAPOTULA NIKHITA",
+    "gender": "F",
+    "admission_number": "O250163",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 29,
+    "name": "TANNIRU HARITHA",
+    "gender": "F",
+    "admission_number": "O250165",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 30,
+    "name": "MUTHUKUMAR MOUNIKA",
+    "gender": "F",
+    "admission_number": "O250167",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 31,
+    "name": "CHERUKUCHERLA LAKSHMI PRASANNA",
+    "gender": "F",
+    "admission_number": "O250168",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 32,
+    "name": "ALLIPARAPU BHARGAVI AKHILA",
+    "gender": "F",
+    "admission_number": "O250181",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 33,
+    "name": "NALLAKULA R S N D LAKSHMI",
+    "gender": "F",
+    "admission_number": "O250182",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 34,
+    "name": "GANNAVARAPU SAI MAHESHWARI",
+    "gender": "F",
+    "admission_number": "O250184",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 35,
+    "name": "PADUCHURI NIKHITHA",
+    "gender": "F",
+    "admission_number": "O250185",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 36,
+    "name": "THANNIRU ANUGNA DHANUSRI",
+    "gender": "F",
+    "admission_number": "O250186",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 37,
+    "name": "DIGALA VENKATA VEERA PUJITHA",
+    "gender": "F",
+    "admission_number": "O250188",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 38,
+    "name": "GONGATI JAHNAVI",
+    "gender": "F",
+    "admission_number": "O250189",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 39,
+    "name": "PATTI BHAVANI",
+    "gender": "F",
+    "admission_number": "O250192",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 40,
+    "name": "MACHARLA JWALITHA",
+    "gender": "F",
+    "admission_number": "O250194",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 41,
+    "name": "VULLI LAKSHMI PRANATHI",
+    "gender": "F",
+    "admission_number": "O250197",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 42,
+    "name": "SHAIK AYESHA MARIYUM",
+    "gender": "F",
+    "admission_number": "S251076",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 43,
+    "name": "MALEMPATI NAGA SATHEESH KUMAR",
+    "gender": "M",
+    "admission_number": "O250107",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 44,
+    "name": "BAYIREDDY SRAVAN",
+    "gender": "M",
+    "admission_number": "O250118",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 45,
+    "name": "PENUMALA ROHITH",
+    "gender": "M",
+    "admission_number": "O250127",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 46,
+    "name": "GAYAKAVADA NAGAYASWANTH",
+    "gender": "M",
+    "admission_number": "O250136",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 47,
+    "name": "REPUDI GNANESH",
+    "gender": "M",
+    "admission_number": "O250141",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 48,
+    "name": "VAPPANGI GANESH",
+    "gender": "M",
+    "admission_number": "O250146",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 49,
+    "name": "PENDREDDI TEJA SREE NAGU",
+    "gender": "M",
+    "admission_number": "O250149",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 50,
+    "name": "HARI VENU",
+    "gender": "M",
+    "admission_number": "O250156",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 51,
+    "name": "SHAIK MOHAMMED KHAJA MOHIDDIN",
+    "gender": "M",
+    "admission_number": "O250157",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 52,
+    "name": "VATALA CHARAN",
+    "gender": "M",
+    "admission_number": "O250162",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 53,
+    "name": "JONNALAGADDA NAGA ASHOK",
+    "gender": "M",
+    "admission_number": "O250172",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 54,
+    "name": "REDDY SIVA SAI BHAVYA SANDESH",
+    "gender": "M",
+    "admission_number": "O250175",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 55,
+    "name": "KOYYA BENJAMIN RAJ",
+    "gender": "M",
+    "admission_number": "O250177",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 56,
+    "name": "MAROTHU HEMANTH KUMAR",
+    "gender": "M",
+    "admission_number": "O250178",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 57,
+    "name": "KORLAKUNTA DEEPAK",
+    "gender": "M",
+    "admission_number": "O250211",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 58,
+    "name": "PAKINA BALA VAMSI",
+    "gender": "M",
+    "admission_number": "O250219",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 59,
+    "name": "PATRAPALLI RAM DILIP MANIKANTA",
+    "gender": "M",
+    "admission_number": "O250226",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 60,
+    "name": "CHANDANA CHARAN TEJA",
+    "gender": "M",
+    "admission_number": "O250232",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 61,
+    "name": "ITHAM TRIVED",
+    "gender": "M",
+    "admission_number": "O250238",
+    "section": "LAMBDA2"
+  },
+  {
+    "s_no": 1,
+    "name": "VAYILA CHINNA TIRUPATAMMA",
+    "gender": "F",
+    "admission_number": "O250201",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 2,
+    "name": "THOROTHU ANJALI",
+    "gender": "F",
+    "admission_number": "O250202",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 3,
+    "name": "KOTTE PUJITHA",
+    "gender": "F",
+    "admission_number": "O250208",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 4,
+    "name": "PULIGADDA SRI KEERTHANA",
+    "gender": "F",
+    "admission_number": "O250210",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 5,
+    "name": "SHAIK AFIFA",
+    "gender": "F",
+    "admission_number": "O250212",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 6,
+    "name": "KOLLURI SANJANA",
+    "gender": "F",
+    "admission_number": "O250217",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 7,
+    "name": "KANCHARLA CHETANA SOWMYA",
+    "gender": "F",
+    "admission_number": "O250220",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 8,
+    "name": "KOSURU LAKSHMI NAGA PRASANNA",
+    "gender": "F",
+    "admission_number": "O250223",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 9,
+    "name": "CHINTAM VENKATA MRUDHULA",
+    "gender": "F",
+    "admission_number": "O250224",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 10,
+    "name": "THUKKAGANDLA CHANDRA VADANA",
+    "gender": "F",
+    "admission_number": "O250227",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 11,
+    "name": "GOPIREDDY PENCHALA DISHA",
+    "gender": "F",
+    "admission_number": "O250229",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 12,
+    "name": "SYED SABIHA",
+    "gender": "F",
+    "admission_number": "O250235",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 13,
+    "name": "PANUGANTI MEENAKSHI",
+    "gender": "F",
+    "admission_number": "O250236",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 14,
+    "name": "DANDE GNANESWARI",
+    "gender": "F",
+    "admission_number": "O250240",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 15,
+    "name": "GEDELA AMANI",
+    "gender": "F",
+    "admission_number": "O250251",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 16,
+    "name": "PALLA BHARGAVI",
+    "gender": "F",
+    "admission_number": "O250252",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 17,
+    "name": "CHITRA ALEKHYA",
+    "gender": "F",
+    "admission_number": "O250255",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 18,
+    "name": "PAMISETTY INDHU",
+    "gender": "F",
+    "admission_number": "O250259",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 19,
+    "name": "PATAN FAYAZA",
+    "gender": "F",
+    "admission_number": "O250260",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 20,
+    "name": "PATHALINGAPPA GARI KEERTHANA",
+    "gender": "F",
+    "admission_number": "O250268",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 21,
+    "name": "BADVELI TEJASWANI",
+    "gender": "F",
+    "admission_number": "O250272",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 22,
+    "name": "KETHA SUMA",
+    "gender": "F",
+    "admission_number": "O250277",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 23,
+    "name": "SOMALA MUNI MAITHRI",
+    "gender": "F",
+    "admission_number": "O250284",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 24,
+    "name": "SIRIGI REDDY VINETHA",
+    "gender": "F",
+    "admission_number": "O250286",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 25,
+    "name": "BODASINGI BHAVYASRI",
+    "gender": "F",
+    "admission_number": "O250287",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 26,
+    "name": "SIMHAM ALEKYA",
+    "gender": "F",
+    "admission_number": "O250297",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 27,
+    "name": "MAGAPU KEERTHI SRILAKSHMI PRASANNA",
+    "gender": "F",
+    "admission_number": "O250307",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 28,
+    "name": "DEVAKOTI SUSMITHA",
+    "gender": "F",
+    "admission_number": "O250308",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 29,
+    "name": "PADMASALI NAVYA SAI",
+    "gender": "F",
+    "admission_number": "O250313",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 30,
+    "name": "SAKKA ANURADHA",
+    "gender": "F",
+    "admission_number": "O250314",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 31,
+    "name": "KUNDAVARAPU PUJITHA",
+    "gender": "F",
+    "admission_number": "O250315",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 32,
+    "name": "BOGGU KARTHEEKA",
+    "gender": "F",
+    "admission_number": "O250316",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 33,
+    "name": "PAPASANI POOJA",
+    "gender": "F",
+    "admission_number": "O250317",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 34,
+    "name": "SETTI CHANDINI",
+    "gender": "F",
+    "admission_number": "O250320",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 35,
+    "name": "TOYYURU NANDHINI",
+    "gender": "F",
+    "admission_number": "O250321",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 36,
+    "name": "ANNADEVARA HARSHITA CHANDRA VIDYA",
+    "gender": "F",
+    "admission_number": "O250322",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 37,
+    "name": "ARUDRA THANMAYEE",
+    "gender": "F",
+    "admission_number": "O250323",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 38,
+    "name": "DODDI LIKITHA",
+    "gender": "F",
+    "admission_number": "O250324",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 39,
+    "name": "YANAMALA TEJASWINI",
+    "gender": "F",
+    "admission_number": "O250326",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 40,
+    "name": "BATTULA GOUTHAMI",
+    "gender": "F",
+    "admission_number": "O250331",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 41,
+    "name": "PULIGADDA ALEKYA",
+    "gender": "F",
+    "admission_number": "O250335",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 42,
+    "name": "SHAIK FARZANA PARVEEN",
+    "gender": "F",
+    "admission_number": "S251078",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 43,
+    "name": "SUNDARAPU TEJA KIRAN",
+    "gender": "M",
+    "admission_number": "O250242",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 44,
+    "name": "AREVARAPU GANGADHAR KARTHIK",
+    "gender": "M",
+    "admission_number": "O250244",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 45,
+    "name": "MANGUNURI JAYA BHARGAV REDDY",
+    "gender": "M",
+    "admission_number": "O250245",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 46,
+    "name": "RELANGI BHARAT KUMAR",
+    "gender": "M",
+    "admission_number": "O250262",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 47,
+    "name": "GALLA KRANTHI KUMAR",
+    "gender": "M",
+    "admission_number": "O250267",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 48,
+    "name": "BITRA MANOJ SAI",
+    "gender": "M",
+    "admission_number": "O250275",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 49,
+    "name": "GUNJI VAMSI KRISHNA",
+    "gender": "M",
+    "admission_number": "O250280",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 50,
+    "name": "MARUBOYINA YOGENDRA",
+    "gender": "M",
+    "admission_number": "O250283",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 51,
+    "name": "SHAIK ABDUL RAHAMAN",
+    "gender": "M",
+    "admission_number": "O250285",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 52,
+    "name": "BUDDAGALLA BHANU PRAKASH",
+    "gender": "M",
+    "admission_number": "O250290",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 53,
+    "name": "TATI SURENDRA",
+    "gender": "M",
+    "admission_number": "O250291",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 54,
+    "name": "SARA JAYAKRISHNA",
+    "gender": "M",
+    "admission_number": "O250292",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 55,
+    "name": "BENNADA RAM CHARAN",
+    "gender": "M",
+    "admission_number": "O250295",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 56,
+    "name": "SANAPATHI JASWANTH",
+    "gender": "M",
+    "admission_number": "O250296",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 57,
+    "name": "GUNDRA PAVAN",
+    "gender": "M",
+    "admission_number": "O250298",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 58,
+    "name": "KUNCHALA PAVAN KUMAR REDDY",
+    "gender": "M",
+    "admission_number": "O250300",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 59,
+    "name": "SULLURU JASWANTH",
+    "gender": "M",
+    "admission_number": "O250302",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 60,
+    "name": "DEGA VENKATA SAI CHARAN TEJA",
+    "gender": "M",
+    "admission_number": "O250303",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 61,
+    "name": "ANNANGI SURESH",
+    "gender": "M",
+    "admission_number": "O250305",
+    "section": "LAMBDA3"
+  },
+  {
+    "s_no": 1,
+    "name": "GOPISETTY JYOTHI",
+    "gender": "F",
+    "admission_number": "O250336",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 2,
+    "name": "DUGGEMPUDI KARUNYA",
+    "gender": "F",
+    "admission_number": "O250338",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 3,
+    "name": "MAILAVARAM MOKSHITHA",
+    "gender": "F",
+    "admission_number": "O250341",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 4,
+    "name": "KOMARA VYSHNAVI",
+    "gender": "F",
+    "admission_number": "O250343",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 5,
+    "name": "THULLURU MEGHANA",
+    "gender": "F",
+    "admission_number": "O250346",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 6,
+    "name": "MADDURU SRAVANI",
+    "gender": "F",
+    "admission_number": "O250347",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 7,
+    "name": "BAIREDDY SWATHI",
+    "gender": "F",
+    "admission_number": "O250348",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 8,
+    "name": "GURRALA RAJYA LAKSHMI",
+    "gender": "F",
+    "admission_number": "O250350",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 9,
+    "name": "T UMA",
+    "gender": "F",
+    "admission_number": "O250351",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 10,
+    "name": "KALLAGUNTA VARSHINI",
+    "gender": "F",
+    "admission_number": "O250352",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 11,
+    "name": "TAMBARAPU LAKSHMI SAHITHI",
+    "gender": "F",
+    "admission_number": "O250353",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 12,
+    "name": "EPURU JAHNAVI",
+    "gender": "F",
+    "admission_number": "O250359",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 13,
+    "name": "PRATHI HARIKA",
+    "gender": "F",
+    "admission_number": "O250360",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 14,
+    "name": "CHALAPATI KARTHIKA",
+    "gender": "F",
+    "admission_number": "O250361",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 15,
+    "name": "VUTLA YASASWINI",
+    "gender": "F",
+    "admission_number": "O250362",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 16,
+    "name": "SUNKESULA SHAHANAZ",
+    "gender": "F",
+    "admission_number": "O250366",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 17,
+    "name": "DORRAJU KUSUMA SRI",
+    "gender": "F",
+    "admission_number": "O250367",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 18,
+    "name": "DAVA THANUSRI YAMINI",
+    "gender": "F",
+    "admission_number": "O250370",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 19,
+    "name": "MANJULA SUSMITHA BHAVANI",
+    "gender": "F",
+    "admission_number": "O250372",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 20,
+    "name": "K BHUVANESWARI",
+    "gender": "F",
+    "admission_number": "O250378",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 21,
+    "name": "KHAREEDU JAYALAKSHMI",
+    "gender": "F",
+    "admission_number": "O250380",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 22,
+    "name": "GUMMADISANI NITHYA SREE",
+    "gender": "F",
+    "admission_number": "O250381",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 23,
+    "name": "PONNADA CHANDRAHASINI",
+    "gender": "F",
+    "admission_number": "O250382",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 24,
+    "name": "VADDULA LEELA SREE",
+    "gender": "F",
+    "admission_number": "O250384",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 25,
+    "name": "CHINTHAPALLI KEERTHI",
+    "gender": "F",
+    "admission_number": "O250387",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 26,
+    "name": "RONDA SANJANA REDDY",
+    "gender": "F",
+    "admission_number": "O250388",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 27,
+    "name": "MANDURI KAMMARI JAYASREE",
+    "gender": "F",
+    "admission_number": "O250391",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 28,
+    "name": "VEMULA SUJITHA",
+    "gender": "F",
+    "admission_number": "O250392",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 29,
+    "name": "SIDDAVATAM VENKATA KEERTHI",
+    "gender": "F",
+    "admission_number": "O250394",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 30,
+    "name": "SHAIK HANIKHA",
+    "gender": "F",
+    "admission_number": "O250396",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 31,
+    "name": "YENDLURI KEERTHI",
+    "gender": "F",
+    "admission_number": "O250397",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 32,
+    "name": "SHAIK SHAKEERA BEE",
+    "gender": "F",
+    "admission_number": "O250401",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 33,
+    "name": "CHINTHA PUJITHA HARSHA",
+    "gender": "F",
+    "admission_number": "O250405",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 34,
+    "name": "PATHAN JAMILA SAMREEN KHANAM",
+    "gender": "F",
+    "admission_number": "O250407",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 35,
+    "name": "GUBBALA PAVANI SRI",
+    "gender": "F",
+    "admission_number": "O250408",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 36,
+    "name": "CHAKALI MANASA",
+    "gender": "F",
+    "admission_number": "O250410",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 37,
+    "name": "KANCHARLA YASASWINI VIJAYA DURGA",
+    "gender": "F",
+    "admission_number": "O250411",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 38,
+    "name": "KODURU MANIKIRTHANA",
+    "gender": "F",
+    "admission_number": "O250413",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 39,
+    "name": "YENDLURI PRANITHA",
+    "gender": "F",
+    "admission_number": "O250418",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 40,
+    "name": "PAMUJULA PUJITHA",
+    "gender": "F",
+    "admission_number": "O250421",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 41,
+    "name": "JELDI SMILY",
+    "gender": "F",
+    "admission_number": "O250424",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 42,
+    "name": "BYNIPOGU SWETHA",
+    "gender": "F",
+    "admission_number": "S251098",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 43,
+    "name": "GALIJERUGULLA THIRUMALA NARAYANA",
+    "gender": "M",
+    "admission_number": "O250309",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 44,
+    "name": "POTHIREDDY SAI PULLAREDDY",
+    "gender": "M",
+    "admission_number": "O250310",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 45,
+    "name": "SENAPATHI THANUJ",
+    "gender": "M",
+    "admission_number": "O250311",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 46,
+    "name": "BADRI CHARAN",
+    "gender": "M",
+    "admission_number": "O250319",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 47,
+    "name": "NIMMALA RAJA VENKATESWARLU",
+    "gender": "M",
+    "admission_number": "O250330",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 48,
+    "name": "DURRU PAVAN KUMAR",
+    "gender": "M",
+    "admission_number": "O250349",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 49,
+    "name": "VANAM BHANU TEJA",
+    "gender": "M",
+    "admission_number": "O250355",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 50,
+    "name": "CHAKALA GUNASHEKHAR",
+    "gender": "M",
+    "admission_number": "O250356",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 51,
+    "name": "PULAKUNTA ANJITH KUMAR",
+    "gender": "M",
+    "admission_number": "O250363",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 52,
+    "name": "SHAIK SABEER BASHA",
+    "gender": "M",
+    "admission_number": "O250365",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 53,
+    "name": "RAVI HARSHITH",
+    "gender": "M",
+    "admission_number": "O250371",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 54,
+    "name": "PUNYAPU VENKATA SAI BHARGAV",
+    "gender": "M",
+    "admission_number": "O250374",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 55,
+    "name": "CHINTHALA PAVAN",
+    "gender": "M",
+    "admission_number": "O250375",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 56,
+    "name": "YERRAMSETTI SURENDRA",
+    "gender": "M",
+    "admission_number": "O250377",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 57,
+    "name": "MYDALA PRATAP",
+    "gender": "M",
+    "admission_number": "O250383",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 58,
+    "name": "PALNATI VASUDEVA NAGA VENKATA VARUN",
+    "gender": "M",
+    "admission_number": "O250385",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 59,
+    "name": "GUNJALA LAKSHMI SHIVA SAI ANIL KUMAR",
+    "gender": "M",
+    "admission_number": "O250386",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 60,
+    "name": "KURAKULA GOPICHAND",
+    "gender": "M",
+    "admission_number": "O250389",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 61,
+    "name": "SAGALA VINAY",
+    "gender": "M",
+    "admission_number": "O250390",
+    "section": "LAMBDA4"
+  },
+  {
+    "s_no": 1,
+    "name": "SHAIK SAMEERA",
+    "gender": "F",
+    "admission_number": "O250426",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 2,
+    "name": "NASINA SRI MEGHANA",
+    "gender": "F",
+    "admission_number": "O250427",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 3,
+    "name": "KOTA KAVERI",
+    "gender": "F",
+    "admission_number": "O250431",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 4,
+    "name": "DASARI RAMYASRI",
+    "gender": "F",
+    "admission_number": "O250432",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 5,
+    "name": "MADALA NAGA TEJASWINI",
+    "gender": "F",
+    "admission_number": "O250434",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 6,
+    "name": "SAMINENI MEGHANA",
+    "gender": "F",
+    "admission_number": "O250435",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 7,
+    "name": "RUDRABOYINA BHARATHI",
+    "gender": "F",
+    "admission_number": "O250438",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 8,
+    "name": "KANCHARLA JERUSHA",
+    "gender": "F",
+    "admission_number": "O250439",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 9,
+    "name": "CHEEKATI CHINNI PRIYA",
+    "gender": "F",
+    "admission_number": "O250442",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 10,
+    "name": "MASAPOGU LAVANYA",
+    "gender": "F",
+    "admission_number": "O250446",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 11,
+    "name": "KORABANDI SALINI",
+    "gender": "F",
+    "admission_number": "O250447",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 12,
+    "name": "CHALLA JAHNAVI",
+    "gender": "F",
+    "admission_number": "O250448",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 13,
+    "name": "PILLI RATNA SRI",
+    "gender": "F",
+    "admission_number": "O250449",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 14,
+    "name": "CHILUVURI HADASSAH GRACE",
+    "gender": "F",
+    "admission_number": "O250454",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 15,
+    "name": "BURAGA AMRITHA",
+    "gender": "F",
+    "admission_number": "O250455",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 16,
+    "name": "GOTTAM TEJASWINI",
+    "gender": "F",
+    "admission_number": "O250456",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 17,
+    "name": "JETTI RUPA",
+    "gender": "F",
+    "admission_number": "O250457",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 18,
+    "name": "SIDDAM VYSHNAVI",
+    "gender": "F",
+    "admission_number": "O250459",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 19,
+    "name": "KANAPARTHI LASYA CHANDRIKA",
+    "gender": "F",
+    "admission_number": "O250460",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 20,
+    "name": "EERI PRAVALIKA",
+    "gender": "F",
+    "admission_number": "O250462",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 21,
+    "name": "PERAPOGU RUBIKA",
+    "gender": "F",
+    "admission_number": "O250467",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 22,
+    "name": "NAGIPOGU DIVYA JYOTHI",
+    "gender": "F",
+    "admission_number": "O250470",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 23,
+    "name": "SAKE NANDINI",
+    "gender": "F",
+    "admission_number": "O250471",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 24,
+    "name": "D S BHAGYA SREE",
+    "gender": "F",
+    "admission_number": "O250472",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 25,
+    "name": "DORADLA KEERTHI",
+    "gender": "F",
+    "admission_number": "O250473",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 26,
+    "name": "KONIDALA RESHMA",
+    "gender": "F",
+    "admission_number": "O250474",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 27,
+    "name": "MUDDALA PALLI BHAVYASREE",
+    "gender": "F",
+    "admission_number": "O250476",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 28,
+    "name": "AMBOJI SPANDANA",
+    "gender": "F",
+    "admission_number": "O250478",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 29,
+    "name": "TAMMIREDDY RUPA SRI",
+    "gender": "F",
+    "admission_number": "O250480",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 30,
+    "name": "BUKKE JYOSHNAVI",
+    "gender": "F",
+    "admission_number": "O250484",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 31,
+    "name": "CHANDAMAMALA MADHULATHA",
+    "gender": "F",
+    "admission_number": "O250491",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 32,
+    "name": "SUGALI SREEVANI",
+    "gender": "F",
+    "admission_number": "O250497",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 33,
+    "name": "KONDA MAHITHA",
+    "gender": "F",
+    "admission_number": "O250498",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 34,
+    "name": "KALAMGIRI LOHITHA",
+    "gender": "F",
+    "admission_number": "O250504",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 35,
+    "name": "ADADA ROJA",
+    "gender": "F",
+    "admission_number": "O250505",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 36,
+    "name": "GOTTAPU LAHARI",
+    "gender": "F",
+    "admission_number": "O250506",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 37,
+    "name": "TAMARANA DALITALLI",
+    "gender": "F",
+    "admission_number": "O250507",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 38,
+    "name": "POTTIPATI JYOTHI",
+    "gender": "F",
+    "admission_number": "O250508",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 39,
+    "name": "DATTI SINDHU PADMAJA",
+    "gender": "F",
+    "admission_number": "O250509",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 40,
+    "name": "VIYYAPU HAREESHA",
+    "gender": "F",
+    "admission_number": "O250510",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 41,
+    "name": "KARRI DEVI",
+    "gender": "F",
+    "admission_number": "O250511",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 42,
+    "name": "DUNGAVATH CHANDRAKALA",
+    "gender": "F",
+    "admission_number": "S251117",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 43,
+    "name": "SHAIK KONDAPALLI ISHAD",
+    "gender": "M",
+    "admission_number": "O250393",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 44,
+    "name": "BOLLINENI ASHUTHOSH SATWIK",
+    "gender": "M",
+    "admission_number": "O250398",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 45,
+    "name": "PATTEM YUGANDHAR VENKATA ANUSH",
+    "gender": "M",
+    "admission_number": "O250399",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 46,
+    "name": "EDIGA CHENNAKESAVA GOUD",
+    "gender": "M",
+    "admission_number": "O250400",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 47,
+    "name": "CHINTHA YASWANTH KUMAR",
+    "gender": "M",
+    "admission_number": "O250403",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 48,
+    "name": "MADDU EESWAR",
+    "gender": "M",
+    "admission_number": "O250404",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 49,
+    "name": "LINGOLU MANIDEEP VENKATA SATYA TEJA",
+    "gender": "M",
+    "admission_number": "O250406",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 50,
+    "name": "KORRAPOLU SUNNY BABU",
+    "gender": "M",
+    "admission_number": "O250409",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 51,
+    "name": "MANGIPUDI ADITYA SRI SAI",
+    "gender": "M",
+    "admission_number": "O250412",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 52,
+    "name": "CHENNAMSETTY JITENDRA KUMAR",
+    "gender": "M",
+    "admission_number": "O250414",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 53,
+    "name": "VINNAKOTA SHANMUKA DURGA RAM",
+    "gender": "M",
+    "admission_number": "O250415",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 54,
+    "name": "SIRIGIRI KASI VISWANADHA REDDY",
+    "gender": "M",
+    "admission_number": "O250416",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 55,
+    "name": "SUDHA YOGENDRA",
+    "gender": "M",
+    "admission_number": "O250417",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 56,
+    "name": "THOLUCHURI LEELADHAR",
+    "gender": "M",
+    "admission_number": "O250419",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 57,
+    "name": "SIYYADRI KUMAR",
+    "gender": "M",
+    "admission_number": "O250425",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 58,
+    "name": "ALAVALA NARENDRA BABU",
+    "gender": "M",
+    "admission_number": "O250428",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 59,
+    "name": "SHAIK BAJI VALI",
+    "gender": "M",
+    "admission_number": "O250429",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 60,
+    "name": "YENDLURI ABHILESH",
+    "gender": "M",
+    "admission_number": "O250440",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 61,
+    "name": "HARIJANA RANJITH KUMAR",
+    "gender": "M",
+    "admission_number": "O250443",
+    "section": "LAMBDA5"
+  },
+  {
+    "s_no": 1,
+    "name": "KUNUKU TEJASWINI",
+    "gender": "F",
+    "admission_number": "O250512",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 2,
+    "name": "MUDADLA LAHARI",
+    "gender": "F",
+    "admission_number": "O250513",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 3,
+    "name": "CHALAMALA HASHINI",
+    "gender": "F",
+    "admission_number": "O250515",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 4,
+    "name": "KURAKULA HASINI",
+    "gender": "F",
+    "admission_number": "O250517",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 5,
+    "name": "KUPPAM MAMATHA",
+    "gender": "F",
+    "admission_number": "O250519",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 6,
+    "name": "CHINTA VENKATA LAKSHMI SARANYA HARITHA",
+    "gender": "F",
+    "admission_number": "O250520",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 7,
+    "name": "PALETI SAVITRI",
+    "gender": "F",
+    "admission_number": "O250521",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 8,
+    "name": "BURLA GANGA BHAVYA",
+    "gender": "F",
+    "admission_number": "O250523",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 9,
+    "name": "KOYYA GEETHANJALI",
+    "gender": "F",
+    "admission_number": "O250524",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 10,
+    "name": "UDATHA ANUSHA",
+    "gender": "F",
+    "admission_number": "O250525",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 11,
+    "name": "CHINTALA  JYOTSHNA",
+    "gender": "F",
+    "admission_number": "O250527",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 12,
+    "name": "PUNNANA SOMESWARI",
+    "gender": "F",
+    "admission_number": "O250528",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 13,
+    "name": "PAYASAM KUNTALO LAHARI",
+    "gender": "F",
+    "admission_number": "O250529",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 14,
+    "name": "AMBALLA ANUSHA",
+    "gender": "F",
+    "admission_number": "O250531",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 15,
+    "name": "DASARI PALLAVI",
+    "gender": "F",
+    "admission_number": "O250534",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 16,
+    "name": "BODDEDA MAHISHA MAHALAKSHMI",
+    "gender": "F",
+    "admission_number": "O250537",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 17,
+    "name": "THALARI GNANA PRIYA",
+    "gender": "F",
+    "admission_number": "O250543",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 18,
+    "name": "PALLE RAJA MALLESWARI",
+    "gender": "F",
+    "admission_number": "O250544",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 19,
+    "name": "TOTTALA VENKATA KALYANI",
+    "gender": "F",
+    "admission_number": "O250546",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 20,
+    "name": "TELUGU BINDU",
+    "gender": "F",
+    "admission_number": "O250548",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 21,
+    "name": "MAROTHU RANJINI",
+    "gender": "F",
+    "admission_number": "O250550",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 22,
+    "name": "PANAPAKAM POORNIMA",
+    "gender": "F",
+    "admission_number": "O250551",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 23,
+    "name": "ANAKAPALLI VISHNU PRIYA",
+    "gender": "F",
+    "admission_number": "O250552",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 24,
+    "name": "REDDI RUPA",
+    "gender": "F",
+    "admission_number": "O250553",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 25,
+    "name": "REDDI MEGHANA",
+    "gender": "F",
+    "admission_number": "O250554",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 26,
+    "name": "DHARMANA SUJANA",
+    "gender": "F",
+    "admission_number": "O250556",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 27,
+    "name": "BEVARA LAVANYA",
+    "gender": "F",
+    "admission_number": "O250563",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 28,
+    "name": "PINNIKA   LAKSHMI THIRUPATHAMMA",
+    "gender": "F",
+    "admission_number": "O250572",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 29,
+    "name": "MEKALA CHANDU",
+    "gender": "F",
+    "admission_number": "O250576",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 30,
+    "name": "KONETI LAKSHMI PRASANNA",
+    "gender": "F",
+    "admission_number": "O250581",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 31,
+    "name": "VEMANA SAI LAKSHMI",
+    "gender": "F",
+    "admission_number": "O250584",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 32,
+    "name": "GADISETTI VARSHINI",
+    "gender": "F",
+    "admission_number": "O250586",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 33,
+    "name": "MEDIBOYINA RAMYA SRI",
+    "gender": "F",
+    "admission_number": "O250589",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 34,
+    "name": "MOHAMMAD MUSHFIRA",
+    "gender": "F",
+    "admission_number": "O250590",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 35,
+    "name": "KARRI MOUNIKA",
+    "gender": "F",
+    "admission_number": "O250591",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 36,
+    "name": "MARRI ASIL SRAVYA",
+    "gender": "F",
+    "admission_number": "O250594",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 37,
+    "name": "SANYANA HEMANI",
+    "gender": "F",
+    "admission_number": "O250597",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 38,
+    "name": "ANUMULA NAGA VYSHNAVI",
+    "gender": "F",
+    "admission_number": "O250598",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 39,
+    "name": "KARRI VASUNDHARA JYOTHI",
+    "gender": "F",
+    "admission_number": "O250599",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 40,
+    "name": "YATTAM RAMYASRI",
+    "gender": "F",
+    "admission_number": "O250600",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 41,
+    "name": "SIRAM VENKATA VARSHINI",
+    "gender": "F",
+    "admission_number": "O250601",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 42,
+    "name": "SUGALI SWATHI",
+    "gender": "F",
+    "admission_number": "S251118",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 43,
+    "name": "JADAPOLU RAM CHARAN",
+    "gender": "M",
+    "admission_number": "O250444",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 44,
+    "name": "LOMADA JASWANTH",
+    "gender": "M",
+    "admission_number": "O250445",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 45,
+    "name": "PULIPATI SANTOSH KUMAR",
+    "gender": "M",
+    "admission_number": "O250461",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 46,
+    "name": "KOTIKALA ROHITH",
+    "gender": "M",
+    "admission_number": "O250463",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 47,
+    "name": "GORLI CHAKRI",
+    "gender": "M",
+    "admission_number": "O250464",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 48,
+    "name": "KONDRU DANUSH",
+    "gender": "M",
+    "admission_number": "O250466",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 49,
+    "name": "MODDULA KISHORE",
+    "gender": "M",
+    "admission_number": "O250468",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 50,
+    "name": "MUDAVATHU BALANJI NAIK",
+    "gender": "M",
+    "admission_number": "O250477",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 51,
+    "name": "BHAJINENI SAI TEJA YADHAV",
+    "gender": "M",
+    "admission_number": "O250483",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 52,
+    "name": "GUDIVADA CHARAN TEJA",
+    "gender": "M",
+    "admission_number": "O250486",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 53,
+    "name": "KALAVATH GANESH NAIK",
+    "gender": "M",
+    "admission_number": "O250492",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 54,
+    "name": "BRAHMANAPALLI JOHN SOPHOSH HIDE",
+    "gender": "M",
+    "admission_number": "O250494",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 55,
+    "name": "YANAADI MADESH",
+    "gender": "M",
+    "admission_number": "O250499",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 56,
+    "name": "RAMAVATH CHATRAPATHI NAIK",
+    "gender": "M",
+    "admission_number": "O250502",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 57,
+    "name": "BANOTH NIKHIL NAIK",
+    "gender": "M",
+    "admission_number": "O250503",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 58,
+    "name": "TELLAGORLA SANJAY",
+    "gender": "M",
+    "admission_number": "O250526",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 59,
+    "name": "SINGAMPALLI TARUN",
+    "gender": "M",
+    "admission_number": "O250530",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 60,
+    "name": "SIDAGAM BHARATENDRA MAHESH",
+    "gender": "M",
+    "admission_number": "O250532",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 61,
+    "name": "YALLA BABIVENKATESH",
+    "gender": "M",
+    "admission_number": "O250533",
+    "section": "LAMBDA6"
+  },
+  {
+    "s_no": 1,
+    "name": "PILLI LAKSHMI PRANAVYA",
+    "gender": "F",
+    "admission_number": "O250604",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 2,
+    "name": "DEVANABOINA DIVYASRI LAKSHMIPRASANNA",
+    "gender": "F",
+    "admission_number": "O250605",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 3,
+    "name": "SOMISETTI BHAGYA PRABHA",
+    "gender": "F",
+    "admission_number": "O250608",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 4,
+    "name": "GADE APARNA",
+    "gender": "F",
+    "admission_number": "O250609",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 5,
+    "name": "BOMMIDI SIREESHA",
+    "gender": "F",
+    "admission_number": "O250611",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 6,
+    "name": "OLIPALLI GEETHANJALI",
+    "gender": "F",
+    "admission_number": "O250612",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 7,
+    "name": "PITTA ROHITHA",
+    "gender": "F",
+    "admission_number": "O250615",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 8,
+    "name": "AKALA VARSHINI",
+    "gender": "F",
+    "admission_number": "O250616",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 9,
+    "name": "CHENNAM SRI NAGAMANI",
+    "gender": "F",
+    "admission_number": "O250617",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 10,
+    "name": "KANAKAM PUNYAVATHI",
+    "gender": "F",
+    "admission_number": "O250618",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 11,
+    "name": "MOPURI NAGASREE VARSHINI",
+    "gender": "F",
+    "admission_number": "O250619",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 12,
+    "name": "KATTA KUSUMA PRIYA",
+    "gender": "F",
+    "admission_number": "O250621",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 13,
+    "name": "KONKYANA KEERTHIKA",
+    "gender": "F",
+    "admission_number": "O250623",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 14,
+    "name": "PARIMI VENKATA RAMYA",
+    "gender": "F",
+    "admission_number": "O250624",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 15,
+    "name": "MAJJARI VINUTHNA",
+    "gender": "F",
+    "admission_number": "O250625",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 16,
+    "name": "POCHIMALLA NAVYA",
+    "gender": "F",
+    "admission_number": "O250626",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 17,
+    "name": "PENDEM LALITHA NAGESWARI",
+    "gender": "F",
+    "admission_number": "O250629",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 18,
+    "name": "MOLLI LOKESWARI",
+    "gender": "F",
+    "admission_number": "O250630",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 19,
+    "name": "GAJJALAKONDA  VENKATA DHANALAKSHMI",
+    "gender": "F",
+    "admission_number": "O250632",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 20,
+    "name": "DABBUGOTTU ASWINI",
+    "gender": "F",
+    "admission_number": "O250633",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 21,
+    "name": "THADIBOINA TEJASWINI",
+    "gender": "F",
+    "admission_number": "O250638",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 22,
+    "name": "GORRE BLESSY",
+    "gender": "F",
+    "admission_number": "O250640",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 23,
+    "name": "PATHAN MUBEENA KHAN",
+    "gender": "F",
+    "admission_number": "O250642",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 24,
+    "name": "TIPPANABOYINA SUBHA LALITHA",
+    "gender": "F",
+    "admission_number": "O250643",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 25,
+    "name": "PULICHARLA  LAHARI SRI",
+    "gender": "F",
+    "admission_number": "O250644",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 26,
+    "name": "CHENNU TEJASWINI",
+    "gender": "F",
+    "admission_number": "O250645",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 27,
+    "name": "MEESALA SRAVANI",
+    "gender": "F",
+    "admission_number": "O250646",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 28,
+    "name": "BANDISURLA JASMEEN",
+    "gender": "F",
+    "admission_number": "O250651",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 29,
+    "name": "MOGILI VENKATA MRUNALINI",
+    "gender": "F",
+    "admission_number": "O250655",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 30,
+    "name": "DEGALA SUBBALAKSHMI",
+    "gender": "F",
+    "admission_number": "O250658",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 31,
+    "name": "UPPARI USHA RANI",
+    "gender": "F",
+    "admission_number": "O250659",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 32,
+    "name": "LANKE HARITHA RADHIKA",
+    "gender": "F",
+    "admission_number": "O250661",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 33,
+    "name": "YARRAKULA MANASA",
+    "gender": "F",
+    "admission_number": "O250663",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 34,
+    "name": "MUDDADA RENUKA",
+    "gender": "F",
+    "admission_number": "O250664",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 35,
+    "name": "PALLI GAYATHRI",
+    "gender": "F",
+    "admission_number": "O250665",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 36,
+    "name": "SHAIK HAFSA",
+    "gender": "F",
+    "admission_number": "O250667",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 37,
+    "name": "MUKITI KEERTHANA",
+    "gender": "F",
+    "admission_number": "O250668",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 38,
+    "name": "EMANI TEJASWINI",
+    "gender": "F",
+    "admission_number": "O250669",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 39,
+    "name": "KUNCHALA MAHESWARI",
+    "gender": "F",
+    "admission_number": "O250670",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 40,
+    "name": "JAMEELA SHAIK",
+    "gender": "F",
+    "admission_number": "O250672",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 41,
+    "name": "MANDALI PAVITRA",
+    "gender": "F",
+    "admission_number": "O250674",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 42,
+    "name": "MURTHOTI DAIZY HAVILAH",
+    "gender": "F",
+    "admission_number": "S251129",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 43,
+    "name": "THOTA BHAVANI SHANKAR",
+    "gender": "M",
+    "admission_number": "O250540",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 44,
+    "name": "KONDALA SEETHAM NAIDU",
+    "gender": "M",
+    "admission_number": "O250541",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 45,
+    "name": "VISAL SAHU",
+    "gender": "M",
+    "admission_number": "O250542",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 46,
+    "name": "P PAVAN KUMAR",
+    "gender": "M",
+    "admission_number": "O250557",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 47,
+    "name": "CHAPPA CHARAN SREE SEETARAM",
+    "gender": "M",
+    "admission_number": "O250558",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 48,
+    "name": "MANJULA NARENDRA",
+    "gender": "M",
+    "admission_number": "O250562",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 49,
+    "name": "NADAKUDITI HEMA GANESH",
+    "gender": "M",
+    "admission_number": "O250582",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 50,
+    "name": "CHAMARTHI BHUVANA CHANDRA",
+    "gender": "M",
+    "admission_number": "O250583",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 51,
+    "name": "NADIGATLA PARDHA SARADHI",
+    "gender": "M",
+    "admission_number": "O250592",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 52,
+    "name": "ANNAMDEVULA SAMUELRAJ",
+    "gender": "M",
+    "admission_number": "O250595",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 53,
+    "name": "YARNAGULA AKASH",
+    "gender": "M",
+    "admission_number": "O250620",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 54,
+    "name": "DARABOINA SURYA DURGA PRASAD",
+    "gender": "M",
+    "admission_number": "O250627",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 55,
+    "name": "BODDU SHANMUKHA RAO",
+    "gender": "M",
+    "admission_number": "O250628",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 56,
+    "name": "BOTSA HEMA SAI",
+    "gender": "M",
+    "admission_number": "O250634",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 57,
+    "name": "MADALA NAGA SURESH",
+    "gender": "M",
+    "admission_number": "O250647",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 58,
+    "name": "CHIRIBOINA RAKESH BABU",
+    "gender": "M",
+    "admission_number": "O250652",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 59,
+    "name": "PATCHA TEJA",
+    "gender": "M",
+    "admission_number": "O250676",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 60,
+    "name": "RUTTALA HEMA SWAROOP",
+    "gender": "M",
+    "admission_number": "O250683",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 61,
+    "name": "BASWANI RAM TEJA",
+    "gender": "M",
+    "admission_number": "O250684",
+    "section": "LAMBDA8"
+  },
+  {
+    "s_no": 1,
+    "name": "CHILKA HARNIKA",
+    "gender": "F",
+    "admission_number": "O251014",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 2,
+    "name": "PENUBAKA SRIVIDYA",
+    "gender": "F",
+    "admission_number": "O251016",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 3,
+    "name": "VASIPALLI SRUTHI RANI",
+    "gender": "F",
+    "admission_number": "O251017",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 4,
+    "name": "AMBATI HEMA SHARANYA",
+    "gender": "F",
+    "admission_number": "O251021",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 5,
+    "name": "RAJAMURI AKSHAYA",
+    "gender": "F",
+    "admission_number": "O251022",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 6,
+    "name": "KOMMU RISHITHA",
+    "gender": "F",
+    "admission_number": "O251025",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 7,
+    "name": "YADALA KUSUMA",
+    "gender": "F",
+    "admission_number": "O251026",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 8,
+    "name": "MURIKIPUDI DIVYA",
+    "gender": "F",
+    "admission_number": "O251027",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 9,
+    "name": "MUTLURI SWAPNIKA RATHNA",
+    "gender": "F",
+    "admission_number": "O251028",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 10,
+    "name": "MADIGA UJWALA MURARIKA",
+    "gender": "F",
+    "admission_number": "O251031",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 11,
+    "name": "PATINI KEERTHI",
+    "gender": "F",
+    "admission_number": "O251035",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 12,
+    "name": "GONNABATTHULA GEETHIKA",
+    "gender": "F",
+    "admission_number": "O251040",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 13,
+    "name": "RAMAVATH VAISHNAVI BAI",
+    "gender": "F",
+    "admission_number": "O251042",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 14,
+    "name": "GEDDA RESHMA",
+    "gender": "F",
+    "admission_number": "O251044",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 15,
+    "name": "PALURU MANASWINI",
+    "gender": "F",
+    "admission_number": "O251045",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 16,
+    "name": "RAMAVATH MEENAKSHI BAI",
+    "gender": "F",
+    "admission_number": "O251052",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 17,
+    "name": "INDRAVATH JANSHI BAI",
+    "gender": "F",
+    "admission_number": "O251055",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 18,
+    "name": "YADLA SWATHI",
+    "gender": "F",
+    "admission_number": "O251057",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 19,
+    "name": "KOMARAGIRI LAVANYA",
+    "gender": "F",
+    "admission_number": "O251059",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 20,
+    "name": "BATCHU THANU SRI VALLI",
+    "gender": "F",
+    "admission_number": "O251060",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 21,
+    "name": "NARUKULA SRI POOJA",
+    "gender": "F",
+    "admission_number": "O251061",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 22,
+    "name": "UNIGORLA MANJULATHA",
+    "gender": "F",
+    "admission_number": "O251062",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 23,
+    "name": "VAKA NANDHINI",
+    "gender": "F",
+    "admission_number": "O251066",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 24,
+    "name": "CHAKKA CHANDANA BHARGAVI",
+    "gender": "F",
+    "admission_number": "O251068",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 25,
+    "name": "SATHIPIDAKALA SARANYA",
+    "gender": "F",
+    "admission_number": "O251073",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 26,
+    "name": "SANIVADA ANUSHA",
+    "gender": "F",
+    "admission_number": "O251075",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 27,
+    "name": "JAGGUBILLI HEMA SRI",
+    "gender": "F",
+    "admission_number": "O251076",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 28,
+    "name": "MAJJI NAVYA SRI",
+    "gender": "F",
+    "admission_number": "O251079",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 29,
+    "name": "POONDLA NAGAVALLI MANOGNA",
+    "gender": "F",
+    "admission_number": "O251080",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 30,
+    "name": "VADDE AKSHAYA",
+    "gender": "F",
+    "admission_number": "O251081",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 31,
+    "name": "MUCHARAMULA SRAVANI",
+    "gender": "F",
+    "admission_number": "O251082",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 32,
+    "name": "BATNA KEERTHI",
+    "gender": "F",
+    "admission_number": "O251085",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 33,
+    "name": "MERANGI VAHINI",
+    "gender": "F",
+    "admission_number": "O251087",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 34,
+    "name": "PAILA KAVYA SRI",
+    "gender": "F",
+    "admission_number": "O251089",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 35,
+    "name": "UPPARA KALLU NAVYA",
+    "gender": "F",
+    "admission_number": "O251092",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 36,
+    "name": "EROTHI SUPRIYA",
+    "gender": "F",
+    "admission_number": "O251093",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 37,
+    "name": "PUDI HARSHITA",
+    "gender": "F",
+    "admission_number": "O251094",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 38,
+    "name": "GURRALA VYSHNAVI",
+    "gender": "F",
+    "admission_number": "O251097",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 39,
+    "name": "TANGI RADHIKA",
+    "gender": "F",
+    "admission_number": "O251098",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 40,
+    "name": "CHITYALA JHANSI",
+    "gender": "F",
+    "admission_number": "O251100",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 41,
+    "name": "JAMI PUJA SRI",
+    "gender": "F",
+    "admission_number": "O251103",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 42,
+    "name": "INDIPURI JASWANTH",
+    "gender": "M",
+    "admission_number": "O251063",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 43,
+    "name": "KAMATHAM VIJAYNATH REDDY",
+    "gender": "M",
+    "admission_number": "O251065",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 44,
+    "name": "BALIJIREDDI RAVI KUMAR",
+    "gender": "M",
+    "admission_number": "O251071",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 45,
+    "name": "BHIMAVARAPU  PRAHLADUDU",
+    "gender": "M",
+    "admission_number": "O251072",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 46,
+    "name": "UNDA RAM CHARAN",
+    "gender": "M",
+    "admission_number": "O251074",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 47,
+    "name": "MAJJI LOKESH",
+    "gender": "M",
+    "admission_number": "O251077",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 48,
+    "name": "THODETI ABHINASH",
+    "gender": "M",
+    "admission_number": "O251078",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 49,
+    "name": "POTLA GANESH",
+    "gender": "M",
+    "admission_number": "O251084",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 50,
+    "name": "GURRAMKONDA NAVMANALI",
+    "gender": "M",
+    "admission_number": "O251088",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 51,
+    "name": "PAMIDAKULA NAGACHARI",
+    "gender": "M",
+    "admission_number": "O251090",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 52,
+    "name": "PUNETI THEJESH",
+    "gender": "M",
+    "admission_number": "O251091",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 53,
+    "name": "KUMMARI MANI CHANDRA",
+    "gender": "M",
+    "admission_number": "O251095",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 54,
+    "name": "VAKA VENKATA SAI CHARAN REDDY",
+    "gender": "M",
+    "admission_number": "O251096",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 55,
+    "name": "GINNI VENKATARAMANA",
+    "gender": "M",
+    "admission_number": "O251099",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 56,
+    "name": "PONDARA DHANUNJAYA",
+    "gender": "M",
+    "admission_number": "O251101",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 57,
+    "name": "ACHI SRINATH",
+    "gender": "M",
+    "admission_number": "O251104",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 58,
+    "name": "BUJULA ASHOK",
+    "gender": "M",
+    "admission_number": "O251105",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 59,
+    "name": "L THARUN KUMAR REDDY",
+    "gender": "M",
+    "admission_number": "O251109",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 60,
+    "name": "PEETHALA GANESH",
+    "gender": "M",
+    "admission_number": "O251113",
+    "section": "MUE10"
+  },
+  {
+    "s_no": 1,
+    "name": "TUMMALAPALLI MAHESWARI",
+    "gender": "F",
+    "admission_number": "O250948",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 2,
+    "name": "PATAN HARSHIYA",
+    "gender": "F",
+    "admission_number": "O250949",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 3,
+    "name": "DARAPU KUMARI",
+    "gender": "F",
+    "admission_number": "O250950",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 4,
+    "name": "BODAPATI SRUJANA",
+    "gender": "F",
+    "admission_number": "O250951",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 5,
+    "name": "KARANKI VEDA SRI",
+    "gender": "F",
+    "admission_number": "O250952",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 6,
+    "name": "CHEKKA GOWTHAMI",
+    "gender": "F",
+    "admission_number": "O250957",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 7,
+    "name": "PAMBA EVENJILI",
+    "gender": "F",
+    "admission_number": "O250959",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 8,
+    "name": "PUVVADA VENKATA LAKSHMI ROHINI",
+    "gender": "F",
+    "admission_number": "O250960",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 9,
+    "name": "SIRIVERU NAVYA",
+    "gender": "F",
+    "admission_number": "O250961",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 10,
+    "name": "KUDIPUDI SRAVANI",
+    "gender": "F",
+    "admission_number": "O250964",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 11,
+    "name": "MARUDI SRAVANI",
+    "gender": "F",
+    "admission_number": "O250965",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 12,
+    "name": "BODAPATI KEERTHANA",
+    "gender": "F",
+    "admission_number": "O250966",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 13,
+    "name": "BONALA VASANTHA",
+    "gender": "F",
+    "admission_number": "O250967",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 14,
+    "name": "K VARSHITHA",
+    "gender": "F",
+    "admission_number": "O250969",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 15,
+    "name": "GANDLAPENTA CHARITHA SAI",
+    "gender": "F",
+    "admission_number": "O250971",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 16,
+    "name": "NEREDUJALLA SAI VARSHINI",
+    "gender": "F",
+    "admission_number": "O250973",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 17,
+    "name": "BODDU ROJA RANI",
+    "gender": "F",
+    "admission_number": "O250974",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 18,
+    "name": "RASIPALLI DHANUSHREE",
+    "gender": "F",
+    "admission_number": "O250976",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 19,
+    "name": "SHAIK NASREEN",
+    "gender": "F",
+    "admission_number": "O250978",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 20,
+    "name": "THUVVARA AKSHAYA",
+    "gender": "F",
+    "admission_number": "O250979",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 21,
+    "name": "KOTHA ESTHER RANI",
+    "gender": "F",
+    "admission_number": "O250982",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 22,
+    "name": "PULLAGURA PAVITHRA",
+    "gender": "F",
+    "admission_number": "O250983",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 23,
+    "name": "MUSALI AMRUTHA PRIYA",
+    "gender": "F",
+    "admission_number": "O250985",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 24,
+    "name": "BURAGANA ADILAXMI",
+    "gender": "F",
+    "admission_number": "O250986",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 25,
+    "name": "ALLU NAVYA",
+    "gender": "F",
+    "admission_number": "O250987",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 26,
+    "name": "PASUPULETI DIVYA SREE",
+    "gender": "F",
+    "admission_number": "O250989",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 27,
+    "name": "PALLA SAILAJA",
+    "gender": "F",
+    "admission_number": "O250990",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 28,
+    "name": "DEVINENI PURNIMA",
+    "gender": "F",
+    "admission_number": "O250992",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 29,
+    "name": "NALAMALA BHARGAVI",
+    "gender": "F",
+    "admission_number": "O250995",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 30,
+    "name": "YENNAM GLORY JASMINE",
+    "gender": "F",
+    "admission_number": "O250996",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 31,
+    "name": "PULLA YASODA",
+    "gender": "F",
+    "admission_number": "O250997",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 32,
+    "name": "MADDIRALA SAHITHI PRIYA",
+    "gender": "F",
+    "admission_number": "O250998",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 33,
+    "name": "RAMANJINEYULU GARI HEMALATHA",
+    "gender": "F",
+    "admission_number": "O250999",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 34,
+    "name": "BADRI VENKATA SWAPNA",
+    "gender": "F",
+    "admission_number": "O251000",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 35,
+    "name": "MANCHINEELLA JAHNAVI ROYAL",
+    "gender": "F",
+    "admission_number": "O251001",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 36,
+    "name": "UTLA  GAYATHRI",
+    "gender": "F",
+    "admission_number": "O251002",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 37,
+    "name": "B PRATHYUSHA",
+    "gender": "F",
+    "admission_number": "O251004",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 38,
+    "name": "KADALI LEKHANA",
+    "gender": "F",
+    "admission_number": "O251007",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 39,
+    "name": "LINGAMPALLI MUNNY",
+    "gender": "F",
+    "admission_number": "O251008",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 40,
+    "name": "GUNNAMPATI JESSIKA",
+    "gender": "F",
+    "admission_number": "O251009",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 41,
+    "name": "VECHALAPU MANASA SRI",
+    "gender": "F",
+    "admission_number": "O251012",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 42,
+    "name": "SHAIK YAKUB VALI",
+    "gender": "M",
+    "admission_number": "O250980",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 43,
+    "name": "PENUKONDA BHARGAVA",
+    "gender": "M",
+    "admission_number": "O250981",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 44,
+    "name": "CHALIGANTI AARKA AASHWIK",
+    "gender": "M",
+    "admission_number": "O251005",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 45,
+    "name": "KARRI NAGA SANKAR PRASAD",
+    "gender": "M",
+    "admission_number": "O251010",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 46,
+    "name": "PALLEM VENNY PRINCE",
+    "gender": "M",
+    "admission_number": "O251013",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 47,
+    "name": "BOYA YUVARAJU",
+    "gender": "M",
+    "admission_number": "O251015",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 48,
+    "name": "YERADONI AJITH KUMAR",
+    "gender": "M",
+    "admission_number": "O251018",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 49,
+    "name": "KANCHARLA CHARAN TEJA",
+    "gender": "M",
+    "admission_number": "O251019",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 50,
+    "name": "ARAVA SAIRAJ",
+    "gender": "M",
+    "admission_number": "O251020",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 51,
+    "name": "CHINTHAKAYALA ASHOK",
+    "gender": "M",
+    "admission_number": "O251024",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 52,
+    "name": "VANELLI SAI GOWTHAM",
+    "gender": "M",
+    "admission_number": "O251030",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 53,
+    "name": "CHANDAKA VISHAL",
+    "gender": "M",
+    "admission_number": "O251034",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 54,
+    "name": "BHUKYA JASWANTH NAIK",
+    "gender": "M",
+    "admission_number": "O251037",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 55,
+    "name": "PENTAKOTA NARASIMHA NAIDU",
+    "gender": "M",
+    "admission_number": "O251038",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 56,
+    "name": "JARPALA ANIL KUMAR NAIK",
+    "gender": "M",
+    "admission_number": "O251046",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 57,
+    "name": "MUDE MAHENDRA NAIK",
+    "gender": "M",
+    "admission_number": "O251049",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 58,
+    "name": "CHITTIPIREDDY SANTHOSH",
+    "gender": "M",
+    "admission_number": "O251050",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 59,
+    "name": "DEVARAKONDA HARSHAVARDHAN",
+    "gender": "M",
+    "admission_number": "O251054",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 60,
+    "name": "SIRIGOLLA PRATAP",
+    "gender": "M",
+    "admission_number": "O251058",
+    "section": "MUE7"
+  },
+  {
+    "s_no": 1,
+    "name": "MUTTHAMSETTY SATHVIKA",
+    "gender": "F",
+    "admission_number": "O250247",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 2,
+    "name": "AVULA NAGA APURVA",
+    "gender": "F",
+    "admission_number": "O250281",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 3,
+    "name": "CHATTU VENKATA BHARGAVI",
+    "gender": "F",
+    "admission_number": "O250345",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 4,
+    "name": "CHALUVADI MOHAN LAKSHMI",
+    "gender": "F",
+    "admission_number": "O250631",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 5,
+    "name": "KILARU NAGA NITHYA",
+    "gender": "F",
+    "admission_number": "O250666",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 6,
+    "name": "INDUKURI JAHNAVI",
+    "gender": "F",
+    "admission_number": "O250685",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 7,
+    "name": "SANGALA DEEKSHITHA",
+    "gender": "F",
+    "admission_number": "O250741",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 8,
+    "name": "LAVU PRANITHA",
+    "gender": "F",
+    "admission_number": "O250853",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 9,
+    "name": "PENUMALA RAKSHITHA",
+    "gender": "F",
+    "admission_number": "O250929",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 10,
+    "name": "KAGITALA TIRUMALA RAMAKRISHNA REDDY",
+    "gender": "M",
+    "admission_number": "O250076",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 11,
+    "name": "SURLA MEGHANA",
+    "gender": "F",
+    "admission_number": "O250395",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 12,
+    "name": "LAGUDU SWATHI",
+    "gender": "F",
+    "admission_number": "O250451",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 13,
+    "name": "PADURU SRUTHI",
+    "gender": "F",
+    "admission_number": "O250549",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 14,
+    "name": "MATTIPI LASYA MADHURI",
+    "gender": "F",
+    "admission_number": "O250555",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 15,
+    "name": "MATHAM ANANYA",
+    "gender": "F",
+    "admission_number": "O250941",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 16,
+    "name": "MEKA SUKANYA",
+    "gender": "F",
+    "admission_number": "O251124",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 17,
+    "name": "URMA JOIL PRIYA",
+    "gender": "F",
+    "admission_number": "O251193",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 18,
+    "name": "GURRAM SHANMUKHI",
+    "gender": "F",
+    "admission_number": "O251086",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 19,
+    "name": "JARAPATI CHITRALEKHA",
+    "gender": "F",
+    "admission_number": "O251314",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 20,
+    "name": "KOTHAPALLI HIMA BINDU SARASWATHI",
+    "gender": "F",
+    "admission_number": "O250678",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 21,
+    "name": "SHAIK ZUBEDA",
+    "gender": "F",
+    "admission_number": "S251132",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 22,
+    "name": "PEDDINI AKSHAYA",
+    "gender": "F",
+    "admission_number": "O250956",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 23,
+    "name": "GOLLAMANDALA DIVYA SAMYUKTHA MADHURI",
+    "gender": "F",
+    "admission_number": "O250130",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 24,
+    "name": "JUNJU LEELA SRI",
+    "gender": "F",
+    "admission_number": "O250196",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 25,
+    "name": "SUBBUGARI PADMA SREE",
+    "gender": "F",
+    "admission_number": "O251083",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 26,
+    "name": "SHAIK JAVEED MUZAFFOR",
+    "gender": "M",
+    "admission_number": "O250104",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 27,
+    "name": "AKULA LASYA SRI",
+    "gender": "F",
+    "admission_number": "S251001",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 28,
+    "name": "KONDA SUSHMITHA",
+    "gender": "F",
+    "admission_number": "R250702",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 29,
+    "name": "CHAKALI SUVARNA",
+    "gender": "F",
+    "admission_number": "O250811",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 30,
+    "name": "VADTHYA REVANTH KUMAR NAIK",
+    "gender": "M",
+    "admission_number": "O250501",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 31,
+    "name": "KONDETI KEERTHANA",
+    "gender": "F",
+    "admission_number": "O250329",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 32,
+    "name": "LANKE LATHIKA",
+    "gender": "F",
+    "admission_number": "O250894",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 33,
+    "name": "CHITTURI MONIKA",
+    "gender": "F",
+    "admission_number": "O250593",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 34,
+    "name": "MACHARLA VIVEKANANDA",
+    "gender": "M",
+    "admission_number": "O251383",
+    "section": "Kappa1"
+  },
+  {
+    "s_no": 35,
+    "name": "CHANDAKA JANARDHANA",
+    "gender": "M",
+    "admission_number": "O250988",
+    "section": "Kappa1"
+  }
+]
