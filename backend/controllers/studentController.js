@@ -88,17 +88,28 @@ function drawFormCopy(doc, student, subjects, startY, margin, contentW, copyLabe
 
   doc.font('Helvetica-Bold').fontSize(11).fillColor('#000');
   
-  // Row 1
-  doc.text(`ID No.: ${student.admission_number}`, margin + 6, y + 6, { width: col1 - 12, lineBreak: false });
-  doc.text(`Name of the Student: ${student.name}`, margin + col1 + 6, y + 6, { width: col2 - 12, lineBreak: false });
+  // Row 1 (Vertically centered)
+  doc.text(`ID No.: ${student.admission_number}`, margin + 6, y + (rowH - 11) / 2, { width: col1 - 12, lineBreak: false });
   
-  // Row 2
-  doc.text(`Department: ${student.department}`, margin + 6, y + rowH + 6, { width: col1 - 12, lineBreak: false });
-  doc.text('Year: P2', margin + col1 + 6, y + rowH + 6, { width: col2 - 12, lineBreak: false });
+  // Calculate dynamic font size for name to fit in col2 without wrapping or overlapping row 2
+  let nameFontSize = 11;
+  const nameText = `Name of the Student: ${student.name}`;
+  doc.font('Helvetica-Bold').fontSize(nameFontSize);
+  while (doc.widthOfString(nameText) > (col2 - 12) && nameFontSize > 7.5) {
+    nameFontSize -= 0.5;
+    doc.fontSize(nameFontSize);
+  }
+  doc.text(nameText, margin + col1 + 6, y + (rowH - nameFontSize) / 2, { width: col2 - 12, lineBreak: false });
+  
+  // Row 2 (Vertically centered)
+  doc.font('Helvetica-Bold').fontSize(11);
+  doc.text(`Department: ${student.department}`, margin + 6, y + rowH + (rowH - 11) / 2, { width: col1 - 12, lineBreak: false });
+  doc.text('Year: P2', margin + col1 + 6, y + rowH + (rowH - 11) / 2, { width: col2 - 12, lineBreak: false });
 
-  // Column 4: Office/Student Copy label (spanned vertically)
+  // Column 4: Office/Student Copy label (spanned vertically, centered)
   const copyTextLines = copyLabel.split(' ');
   const firstWord = copyTextLines[0].charAt(0) + copyTextLines[0].slice(1).toLowerCase(); // 'Office' or 'Student'
+  doc.font('Helvetica-Bold').fontSize(11);
   doc.text(firstWord, margin + col1 + col2 + col3, y + 12, { width: col4, align: 'center' });
   doc.text('Copy', margin + col1 + col2 + col3, y + 26, { width: col4, align: 'center' });
 
