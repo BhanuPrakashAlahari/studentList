@@ -14,10 +14,10 @@ connectDB();
 
 // ─── Middleware ───────────────────────────────────────────────────────────────
 
-// CORS — allow requests from the React frontend
+// CORS — dynamically allow the requesting origin to support Vercel preview/production domains and localhost
 app.use(
   cors({
-    origin: process.env.CLIENT_ORIGIN || 'http://localhost:5173',
+    origin: true,
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     credentials: true,
   })
