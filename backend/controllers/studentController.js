@@ -67,14 +67,14 @@ function getSubjects() {
 
 // ── Shared helper: draw one registration form copy ────────────────────────────
 function drawFormCopy(doc, student, subjects, startY, margin, contentW, copyLabel) {
-  const rowH = 20;
-  const tblRowH = 16;
+  const rowH = 24; // Increased from 20 for 11pt font padding
+  const tblRowH = 20; // Increased from 16 for 11pt font padding
   let y = startY;
 
   // ── Copy title ──────────────────────────────────────────────────────────────
   doc
     .font('Helvetica-Bold')
-    .fontSize(10.5)
+    .fontSize(12.5) // Increased from 10.5
     .fillColor('#000')
     .text(
       `REGISTRATION FORM (${copyLabel}) - AY: 2026-27`,
@@ -84,14 +84,14 @@ function drawFormCopy(doc, student, subjects, startY, margin, contentW, copyLabe
 
   // Underline the title manually
   const titleW = contentW;
-  y = doc.y + 1;
+  y = doc.y + 2;
   doc
     .moveTo(margin, y)
     .lineTo(margin + titleW, y)
     .strokeColor('#555')
     .lineWidth(0.5)
     .stroke();
-  y += 5;
+  y += 6;
 
   // ── Meta table: ID / Name / Dept / Year ──────────────────────────────────
   const col1 = contentW * 0.35;
@@ -104,18 +104,18 @@ function drawFormCopy(doc, student, subjects, startY, margin, contentW, copyLabe
   // Vertical divider
   doc.moveTo(margin + col1, y).lineTo(margin + col1, y + rowH * 2).stroke();
 
-  doc.font('Helvetica-Bold').fontSize(9).fillColor('#000');
-  doc.text(`ID No.: ${student.admission_number}`, margin + 5, y + 5, { width: col1 - 10, lineBreak: false });
-  doc.text(`Name of the Student : ${student.name}`, margin + col1 + 5, y + 5, { width: col2 - 10, lineBreak: false });
-  doc.text(`Department : ${student.department}`, margin + 5, y + rowH + 5, { width: col1 - 10, lineBreak: false });
-  doc.text('Year : P2', margin + col1 + 5, y + rowH + 5, { width: col2 - 10, lineBreak: false });
+  doc.font('Helvetica-Bold').fontSize(11).fillColor('#000'); // Increased from 9
+  doc.text(`ID No.: ${student.admission_number}`, margin + 6, y + 6, { width: col1 - 12, lineBreak: false });
+  doc.text(`Name of the Student : ${student.name}`, margin + col1 + 6, y + 6, { width: col2 - 12, lineBreak: false });
+  doc.text(`Department : ${student.department}`, margin + 6, y + rowH + 6, { width: col1 - 12, lineBreak: false });
+  doc.text('Year : P2', margin + col1 + 6, y + rowH + 6, { width: col2 - 12, lineBreak: false });
 
-  y += rowH * 2 + 6;
+  y += rowH * 2 + 8;
 
   // ── "Registration Details:" heading ──────────────────────────────────────
-  doc.font('Helvetica-Bold').fontSize(9.5).fillColor('#000')
+  doc.font('Helvetica-Bold').fontSize(11.5).fillColor('#000') // Increased from 9.5
     .text('Registration Details:', margin, y, { underline: true });
-  y = doc.y + 3;
+  y = doc.y + 4;
 
   // ── Subject table: 3 columns — S.No | Name | Code ────────────────────────
   const colWidths = [
@@ -129,10 +129,10 @@ function drawFormCopy(doc, student, subjects, startY, margin, contentW, copyLabe
   doc.rect(margin, y, contentW, tblRowH).fillColor('#f2f2f2').fill();
   doc.rect(margin, y, contentW, tblRowH).strokeColor('#888').lineWidth(0.4).stroke();
 
-  doc.font('Helvetica-Bold').fontSize(9).fillColor('#000');
+  doc.font('Helvetica-Bold').fontSize(11).fillColor('#000'); // Increased from 9
   let x = margin;
   headers.forEach((h, i) => {
-    doc.text(h, x + 3, y + 4, {
+    doc.text(h, x + 3, y + 5, {
       width: colWidths[i] - 6,
       align: i === 0 ? 'center' : 'left',
       lineBreak: false,
@@ -145,13 +145,13 @@ function drawFormCopy(doc, student, subjects, startY, margin, contentW, copyLabe
   y += tblRowH;
 
   // Data rows
-  doc.font('Helvetica').fontSize(9);
+  doc.font('Helvetica').fontSize(11); // Increased from 9
   subjects.forEach((subj, idx) => {
     doc.rect(margin, y, contentW, tblRowH).strokeColor('#888').lineWidth(0.4).stroke();
 
     x = margin;
     [String(idx + 1), subj.name, subj.code].forEach((cell, ci) => {
-      doc.fillColor('#000').text(cell, x + 3, y + 4, {
+      doc.fillColor('#000').text(cell, x + 3, y + 5, {
         width: colWidths[ci] - 6,
         align: ci === 0 ? 'center' : 'left',
         lineBreak: false,
@@ -165,35 +165,35 @@ function drawFormCopy(doc, student, subjects, startY, margin, contentW, copyLabe
   });
 
   // ── Instructions ───────────────────────────────────────────────────────────
-  y += 5;
-  doc.font('Helvetica-Bold').fontSize(8.5).fillColor('#000')
+  y += 8;
+  doc.font('Helvetica-Bold').fontSize(10.5).fillColor('#000') // Increased from 8.5
     .text('Instructions:', margin, y, { underline: true });
-  y = doc.y + 3;
+  y = doc.y + 4;
 
   const instructions = [
     'I am aware that minimum of 75% attendance is necessary during the semester to appear in EST Examinations.',
     'I am aware of all the academic regulations circulated to me earlier.',
     'I am aware that my application for scholarship will be stalled if my attendance falls below 75%.',
   ];
-  doc.font('Helvetica').fontSize(8);
+  doc.font('Helvetica').fontSize(10); // Increased from 8
   instructions.forEach((line) => {
     doc.text(`• ${line}`, margin + 8, y, { width: contentW - 10, lineBreak: true });
-    y = doc.y + 1;
+    y = doc.y + 2;
   });
 
-  // ── Signature block ────────────────────────────────────────────────────────
-  y += 350;
+  // ── Signature block (fixed near the bottom of A4 page to maintain clean alignment) ──
+  const sigTop = doc.page.height - 85;
   const sigLabels = ['Student Signature', 'Faculty Advisor', 'Head of the Department'];
   const sigW = contentW / 3;
   sigLabels.forEach((label, i) => {
     const sx = margin + sigW * i + 5;
     const lineEnd = margin + sigW * i + sigW - 10;
-    doc.moveTo(sx, y).lineTo(lineEnd, y).strokeColor('#555').lineWidth(0.5).stroke();
-    doc.font('Helvetica-Bold').fontSize(8).fillColor('#000')
-      .text(label, sx, y + 4, { width: sigW - 15, align: 'center', lineBreak: false });
+    doc.moveTo(sx, sigTop).lineTo(lineEnd, sigTop).strokeColor('#555').lineWidth(0.5).stroke();
+    doc.font('Helvetica-Bold').fontSize(10).fillColor('#000')
+      .text(label, sx, sigTop + 6, { width: sigW - 15, align: 'center', lineBreak: false });
   });
 
-  return y + 20; // return bottom Y of this copy
+  return sigTop + 25;
 }
 
 // ── GET /api/students/:studentId ──────────────────────────────────────────────
